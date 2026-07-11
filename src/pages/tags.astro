@@ -1,0 +1,4 @@
+---
+import { getCollection } from 'astro:content'; import BaseLayout from '../layouts/BaseLayout.astro'; const tags=[...new Set((await getCollection('blog')).flatMap(p=>p.data.tags))].sort();
+---
+<BaseLayout title="Tags | DevOps Globe"><section class="shell py-16"><p class="eyebrow">Every thread</p><h1 class="text-5xl font-black">Tags</h1><div class="card mt-8 p-8">{tags.map((t,i)=><a id={t.toLowerCase()} class="tag m-2 text-base" style={`font-size:${.85+(i%4)*.12}rem`} href={`/search?q=${t}`}>#{t}</a>)}</div></section></BaseLayout>

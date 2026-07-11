@@ -1,0 +1,6 @@
+---
+import type { CollectionEntry } from 'astro:content';
+const {post,wide=false}:{post:CollectionEntry<'blog'>;wide?:boolean}=Astro.props;
+const f=post.data;
+---
+<article class:list={['card overflow-hidden transition duration-200 hover:-translate-y-1 hover:border-indigo-400/50',wide&&'md:grid md:grid-cols-2']}><div class="min-h-40 bg-gradient-to-br from-blue-600/70 via-indigo-700/70 to-purple-800/80 p-5"><span class="tag bg-slate-950/30">{f.category}</span><div class="mt-10 text-3xl opacity-70">☁</div></div><div class="p-5"><div class="text-xs text-slate-400">{f.date.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · {f.readingTime} min read</div><h2 class="mt-2 text-xl font-bold leading-snug"><a class="hover:text-indigo-300" href={`/articles/${post.id}`}>{f.title}</a></h2><p class="mt-2 text-sm text-slate-400">{f.description}</p><div class="mt-4">{f.tags.slice(0,3).map(t=><a href={`/tags#${t.toLowerCase()}`} class="tag">{t}</a>)}</div></div></article>

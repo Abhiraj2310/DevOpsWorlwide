@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abhiraj2310.github.io/DevOpsWorlwide/sitemap-index.xml

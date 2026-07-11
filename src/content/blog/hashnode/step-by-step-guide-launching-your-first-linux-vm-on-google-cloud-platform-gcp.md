@@ -16,7 +16,6 @@ With additional step about Deleting a VM on Google Cloud Platform (GCP).
 UpdatedMay 30, 2023•4 min read•[**View as Markdown](/step-by-step-guide-launching-your-first-linux-vm-on-google-cloud-platform-gcp.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Cloud](/series/aws-and-gcp)
 

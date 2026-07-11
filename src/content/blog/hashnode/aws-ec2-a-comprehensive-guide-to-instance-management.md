@@ -16,7 +16,6 @@ With SSH troubleshooting and EC2 best practices
 UpdatedJuly 12, 2023•18 min read•[**View as Markdown](/aws-ec2-a-comprehensive-guide-to-instance-management.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Cloud](/series/aws-and-gcp)
 

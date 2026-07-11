@@ -13,7 +13,6 @@ readingTime: 6
 
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)
 

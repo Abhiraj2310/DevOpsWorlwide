@@ -16,7 +16,6 @@ Writing Your First Terraform configuration using HCL syntax
 UpdatedJune 6, 2023•9 min read•[**View as Markdown](/getting-started-with-terraform-and-hcl-syntax.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Terraform](/series/understanding-terraform)
 

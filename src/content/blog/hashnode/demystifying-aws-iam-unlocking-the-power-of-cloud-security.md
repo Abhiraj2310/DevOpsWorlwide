@@ -16,7 +16,6 @@ Understanding Cloud computing, AWS CLI and Aws IAM
 UpdatedJuly 11, 2023•38 min read•[**View as Markdown](/demystifying-aws-iam-unlocking-the-power-of-cloud-security.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Cloud](/series/aws-and-gcp)
 

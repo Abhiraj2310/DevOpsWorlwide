@@ -16,7 +16,6 @@ With Step-by-Step Guide to Assigning AWS EBS and EFS to EC2 Instances
 UpdatedJuly 13, 2023•12 min read•[**View as Markdown](/understanding-cloud-series-exploring-aws-ebs-and-efs-for-efficient-storage.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Cloud](/series/aws-and-gcp)
 

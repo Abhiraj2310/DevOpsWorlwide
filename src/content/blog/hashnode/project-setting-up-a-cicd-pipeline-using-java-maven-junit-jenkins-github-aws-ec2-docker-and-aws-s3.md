@@ -16,7 +16,6 @@ A project for practicing ci/cd.
 UpdatedMay 8, 2023•7 min read•[**View as Markdown](/project-setting-up-a-cicd-pipeline-using-java-maven-junit-jenkins-github-aws-ec2-docker-and-aws-s3.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesProjects For Devops / CloudOpd / GITOps](/series/projects)
 

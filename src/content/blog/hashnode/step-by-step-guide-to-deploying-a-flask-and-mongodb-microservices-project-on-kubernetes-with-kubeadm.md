@@ -16,7 +16,6 @@ With troubleshooting.
 UpdatedApril 30, 2023•12 min read•[**View as Markdown](/step-by-step-guide-to-deploying-a-flask-and-mongodb-microservices-project-on-kubernetes-with-kubeadm.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)
 

@@ -14,7 +14,6 @@ readingTime: 4
 UpdatedMay 15, 2023•2 min read•[**View as Markdown](/my-thoughts-on-amazon-prime-video-switching-from-serverless-to-monolithic.md)
 
 
-[![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
 
 Recently, there has been a lot of discussion around Amazon Prime Video's decision to switch from a serverless architecture to a monolithic architecture. This move has surprised many in the tech industry, as serverless has been touted as the future of cloud computing, offering a range of benefits such as cost savings, scalability, and ease of use.

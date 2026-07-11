@@ -2,16 +2,9 @@
 
 A static, dark-first DevOps news and knowledge platform built with Astro, TypeScript, Tailwind CSS, Markdown content collections, RSS, and sitemap support.
 
-## Hashnode publishing workflow
+## Hashnode one-time migration
 
-Articles are written and published in Hashnode, then imported into Astro during every GitHub Pages build. Imported articles are generated under `src/content/blog/hashnode/` and appear at `/articles/hashnode/<slug>`.
-
-1. In GitHub, open **Settings → Secrets and variables → Actions**.
-2. Add a repository secret named `HASHNODE_TOKEN` with your Hashnode personal access token.
-3. Add a repository variable named `HASHNODE_PUBLICATION_HOST` with the hostname of the Hashnode publication, such as `your-publication.hashnode.dev`.
-4. Push a commit or run the **Deploy DevOpsWorlwide** workflow manually.
-
-The token is never committed to the repository or sent to website visitors. Published Hashnode posts can be read through Hashnode's public GraphQL API; the token is passed only to the build process for authenticated access when needed.
+Hashnode's GraphQL API now requires a paid plan, so this site does not call it during GitHub Pages builds. Export your articles from the Hashnode Blog Dashboard and provide the JSON export for a one-time import into `src/content/blog/hashnode/`.
 
 ## Local development
 

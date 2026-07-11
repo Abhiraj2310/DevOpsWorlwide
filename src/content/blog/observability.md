@@ -31,3 +31,15 @@ sum(rate(http_requests_total[5m]))
 ## References
 
 - Google SRE Workbook
+
+## Build observability around user impact
+
+The goal is not an impressive wall of charts. A team should be able to answer three questions quickly: are users succeeding, what changed, and where is time or failure accumulating? Begin with a small set of service-level indicators tied to a user journey. Connect those indicators to deployment identifiers, service ownership, and dependency context so an alert leads to a decision rather than a scavenger hunt.
+
+Use metrics for trend and alerting, traces for request paths, and logs for event detail. Instrumentation quality matters more than volume. A metric without a clear denominator, a log without context, or a trace without propagation creates confidence without understanding.
+
+### Operational routine
+
+Review dashboards after incidents and remove panels that did not change a decision. Add links from alerts to the relevant runbook, dashboard, and trace search. This is how observability becomes a product for operators rather than a collection of tools.
+
+Further reading: [Prometheus instrumentation guidance](https://prometheus.io/docs/practices/instrumentation/) and [Grafana security guidance](https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-security-hardening/).

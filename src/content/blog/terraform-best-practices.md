@@ -33,3 +33,18 @@ module "service_network" {
 ## References
 
 - HashiCorp Terraform language documentation
+
+## A workflow teams can trust
+
+Terraform becomes difficult when its state represents too many unrelated decisions. Split state along blast-radius and ownership boundaries: a shared network, a production application, and a disposable test environment should not require the same approval or have the same failure mode. Keep modules small, versioned, and documented around outcomes rather than a list of provider resources.
+
+The review unit is the plan. Generate it in CI, retain it with the pull request, and apply the reviewed artifact rather than calculating a new one later. That practice closes a surprisingly common gap between what reviewers saw and what production received. Pair it with short-lived cloud credentials, policy checks, and a clear break-glass process for genuine incidents.
+
+### Questions for every change
+
+- Who owns the resulting resource and its cost?
+- Can this change be reversed safely?
+- Does the state boundary expose unrelated environments?
+- What policy would prevent the same unsafe configuration next time?
+
+Further reading: [HashiCorp recommended practices](https://developer.hashicorp.com/terraform/cloud-docs/recommended-practices).

@@ -38,3 +38,18 @@ Measure time to a safe first deployment. If it takes days, your platform still a
 ## References
 
 - Kubernetes documentation and CNCF end-user practices
+
+## Production checklist
+
+Before a workload is admitted to production, ask whether it can fail without turning an incident into a guessing game. Every deployment should declare requests and memory limits, expose startup and readiness behaviour, emit structured logs, and identify an owning team. These are not administrative details: they give the scheduler usable information, prevent one service from consuming a neighbour's capacity, and make rollout failures visible before users are affected.
+
+For platform teams, the important design decision is the boundary between a cluster capability and an application decision. Provide opinionated templates for identity, network policy, image provenance, dashboards, and delivery. Let application teams choose their domains, error budgets, and release cadence. Review the path periodically: a template that requires six exceptions is not a paved road.
+
+### Practical next steps
+
+1. Inventory workloads with no requests or limits and fix the riskiest first.
+2. Make deployment metadata available in metrics, traces, and logs.
+3. Test a rollback and a node-drain scenario during normal working hours.
+4. Publish one service onboarding path and measure its time to first safe deployment.
+
+Further reading: [Kubernetes production environment guidance](https://kubernetes.io/docs/setup/production-environment/) and [resource management](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/).

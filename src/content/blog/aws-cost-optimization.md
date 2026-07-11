@@ -29,3 +29,15 @@ cost per successful checkout = monthly checkout platform spend / successful chec
 ## References
 
 - AWS Well-Architected Cost Optimization Pillar
+
+## Turn cost data into an engineering signal
+
+Cost reviews fail when they are treated as a monthly procurement exercise. Put ownership and allocation into the provisioning path, then show teams the cost of a meaningful unit of work: an order, an active customer, a successful build, or a processed gigabyte. The number will not be perfect on day one; it only needs to be consistent enough to expose a material change.
+
+Start with waste that has an unambiguous owner: unattached storage, idle load balancers, orphaned snapshots, and instances that never scale down. Then tackle architecture. Right-size from observed utilization rather than a dashboard glance, decide which workloads tolerate interruption, and schedule non-production environments. Savings plans and reservations are valuable only after the baseline is understood.
+
+### Weekly FinOps habit
+
+Review the five largest deltas with the teams who made the changes. Ask what customer outcome changed, whether the increase is intentional, and what signal should alert earlier next time. This makes cost accountability collaborative rather than punitive.
+
+Further reading: [AWS Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html).

@@ -1,6 +1,6 @@
 ---
 title: "Understanding HTTP Error Codes: Common Error Messages Explained"
-description: "PublishedApril 27, 2023•5 min read•[**View as Markdown](/understanding-http-error-codes-common-error-messages-explained.md)"
+description: "A practical DevOpsWorlwide guide to Understanding HTTP Error Codes: Common Error Messages Explained"
 date: "2023-04-26T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: [DevOpsWorlwide]

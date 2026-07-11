@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Terraform and Terraform Basics"
-description: "Simplifying Infrastructure as Code"
+description: "A practical DevOpsWorlwide guide to Introduction to Terraform and Terraform Basics"
 date: "2023-06-04T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["terraform","devops","iac","terraweek-challenge"]
@@ -15,7 +15,6 @@ readingTime: 15
 > **Why this matters today:** Infrastructure changes deserve the same review discipline as application code. Small, versioned modules and auditable plans keep delivery fast without trading away control.
 Simplifying Infrastructure as Code
 
-UpdatedJune 5, 2023•14 min read•[**View as Markdown](/introduction-to-terraform-and-terraform-basics.md)
 
 
 

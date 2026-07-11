@@ -1,6 +1,6 @@
 ---
 title: "Comparing Serverless and Jenkins CI/CD: Making the Right Choice for Your Organization"
-description: "Exploring the Pros and Cons of Serverless and Jenkins for Seamless Continuous Integration and Deployment"
+description: "A practical DevOpsWorlwide guide to Comparing Serverless and Jenkins CI/CD: Making the Right Choice for Your Organization"
 date: "2023-05-14T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","jenkins","serverless","aws","cicd"]

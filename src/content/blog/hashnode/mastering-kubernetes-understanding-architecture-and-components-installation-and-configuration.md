@@ -1,6 +1,6 @@
 ---
 title: "\"Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration\""
-description: "UpdatedApril 27, 2023•7 min read•[**View as Markdown](/mastering-kubernetes-understanding-architecture-and-components-installation-and-configuration.md)"
+description: "A practical DevOpsWorlwide guide to \\"Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration\\""
 date: "2023-04-23T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["kubernetes","kubeweek","kubeweekchallenge","trainwithshubham","devops"]
@@ -13,7 +13,6 @@ readingTime: 8
 
 
 > **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads�not from cluster complexity alone.
-UpdatedApril 27, 2023•7 min read•[**View as Markdown](/mastering-kubernetes-understanding-architecture-and-components-installation-and-configuration.md)
 
 
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)

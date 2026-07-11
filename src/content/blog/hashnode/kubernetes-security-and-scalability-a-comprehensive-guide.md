@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Security and Scalability: A Comprehensive Guide"
-description: "Utilizing Persistent Volumes, Storage Classes, StatefulSets, RBAC, Pod Security Policies, Secrets, Network Policies, and TLS"
+description: "A practical DevOpsWorlwide guide to Kubernetes Security and Scalability: A Comprehensive Guide"
 date: "2023-04-27T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","kubernetes","kubeweekchallenge","kubeweek","trainwithshubham"]

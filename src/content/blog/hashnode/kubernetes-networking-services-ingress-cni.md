@@ -1,6 +1,6 @@
 ---
 title: "Unleashing the Power of Kubernetes Networking: A Comprehensive Guide to Services, Ingress, Network Policies, DNS, and CNI Plugins"
-description: "UpdatedApril 27, 2023•5 min read•[**View as Markdown](/unleashing-the-power-of-kubernetes-networking-a-comprehensive-guide-to-services-ingress-network-policies-dns-and-cni-plugins.md)"
+description: "A practical DevOpsWorlwide guide to Unleashing the Power of Kubernetes Networking: A Comprehensive Guide to Services, Ingress, Network Policies, DNS, and CNI Plugins"
 date: "2023-04-24T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: [DevOpsWorlwide]
@@ -13,7 +13,6 @@ readingTime: 4
 
 
 > **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads�not from cluster complexity alone.
-UpdatedApril 27, 2023•5 min read•[**View as Markdown](/unleashing-the-power-of-kubernetes-networking-a-comprehensive-guide-to-services-ingress-network-policies-dns-and-cni-plugins.md)
 
 
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)

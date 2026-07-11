@@ -1,6 +1,6 @@
 ---
 title: "Project: Setting up a CI/CD Pipeline using Java, Maven, JUnit, Jenkins, GitHub, AWS EC2, Docker, and AWS S3"
-description: "A project for practicing ci/cd."
+description: "A practical DevOpsWorlwide guide to Project: Setting up a CI/CD Pipeline using Java, Maven, JUnit, Jenkins, GitHub, AWS EC2, Docker, and AWS S3"
 date: "2023-05-06T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["jenkins","devops","maven","java","projects"]
@@ -15,7 +15,6 @@ readingTime: 8
 > **Why this matters today:** Cloud services evolve quickly, but durable foundations remain the same: least privilege, resilient architecture, cost visibility, and deliberate operational limits.
 A project for practicing ci/cd.
 
-UpdatedMay 8, 2023•7 min read•[**View as Markdown](/project-setting-up-a-cicd-pipeline-using-java-maven-junit-jenkins-github-aws-ec2-docker-and-aws-s3.md)
 
 
 

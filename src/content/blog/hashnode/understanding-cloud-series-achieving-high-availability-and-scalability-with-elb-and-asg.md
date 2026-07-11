@@ -1,6 +1,6 @@
 ---
 title: "Understanding Cloud Series: Achieving High Availability and Scalability with ELB and ASG"
-description: "With Key points on ELB and ASG for AWS CCP"
+description: "A practical DevOpsWorlwide guide to Understanding Cloud Series: Achieving High Availability and Scalability with ELB and ASG"
 date: "2023-07-13T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["elb","asg","aws","aws-ccp","devops"]

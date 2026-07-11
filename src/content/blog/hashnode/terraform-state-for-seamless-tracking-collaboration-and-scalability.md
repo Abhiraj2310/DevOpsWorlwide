@@ -1,6 +1,6 @@
 ---
 title: "Terraform State for Seamless Tracking, Collaboration, and Scalability"
-description: "Terraform State in Managing Infrastructure, Storing the State File and Remote State Management Options"
+description: "A practical DevOpsWorlwide guide to Terraform State for Seamless Tracking, Collaboration, and Scalability"
 date: "2023-06-07T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","terraform","terraweekchallenge","terraweek","iac"]

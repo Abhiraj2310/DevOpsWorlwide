@@ -1,6 +1,6 @@
 ---
 title: "Project: Provisioning Kubernetes Cluster on AWS with Terraform"
-description: "A project for practicing and learning IAC using Terraform"
+description: "A practical DevOpsWorlwide guide to Project: Provisioning Kubernetes Cluster on AWS with Terraform"
 date: "2023-05-16T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["terraform","devops","aws","kubernetes","iac"]
@@ -15,7 +15,6 @@ readingTime: 12
 > **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads�not from cluster complexity alone.
 A project for practicing and learning IAC using Terraform
 
-UpdatedMay 17, 2023•11 min read•[**View as Markdown](/project-provisioning-kubernetes-cluster-on-aws-with-terraform.md)
 
 
 

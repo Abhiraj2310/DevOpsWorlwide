@@ -1,6 +1,6 @@
 ---
 title: "Understanding Cloud Series: Day 7 Part A"
-description: "AWS Architechture, VPC, AWS wavelength, Cloudfront, AWS amplify, AWS Backup,AWS DRS, and Databases"
+description: "A practical DevOpsWorlwide guide to Understanding Cloud Series: Day 7 Part A"
 date: "2023-07-15T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["aws","aws-ccp","devops"]

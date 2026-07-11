@@ -1,6 +1,6 @@
 ---
 title: "My Thoughts on Amazon prime video switching from serverless to monolithic"
-description: "UpdatedMay 15, 2023•2 min read•[**View as Markdown](/my-thoughts-on-amazon-prime-video-switching-from-serverless-to-monolithic.md)"
+description: "A practical DevOpsWorlwide guide to My Thoughts on Amazon prime video switching from serverless to monolithic"
 date: "2023-05-14T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["amazon-web-services","amazonprime","serverless","monolithic-architecture","devops"]
@@ -13,7 +13,6 @@ readingTime: 4
 
 
 > **Why this matters today:** Cloud services evolve quickly, but durable foundations remain the same: least privilege, resilient architecture, cost visibility, and deliberate operational limits.
-UpdatedMay 15, 2023•2 min read•[**View as Markdown](/my-thoughts-on-amazon-prime-video-switching-from-serverless-to-monolithic.md)
 
 
 

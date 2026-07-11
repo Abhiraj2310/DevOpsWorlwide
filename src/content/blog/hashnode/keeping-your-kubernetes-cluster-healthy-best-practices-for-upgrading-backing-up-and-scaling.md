@@ -1,6 +1,6 @@
 ---
 title: "Keeping Your Kubernetes Cluster Healthy: Best Practices for Upgrading, Backing Up, and Scaling"
-description: "Learn How to Maintain Your Kubernetes Cluster and Keep Your Applications Running Smoothly with Detailed Examples"
+description: "A practical DevOpsWorlwide guide to Keeping Your Kubernetes Cluster Healthy: Best Practices for Upgrading, Backing Up, and Scaling"
 date: "2023-04-28T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","kubernetes","kubeweekchallenge","kubeweek","trainwithshubham"]

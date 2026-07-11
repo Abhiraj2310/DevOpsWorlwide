@@ -1,6 +1,6 @@
 ---
 title: "Demystifying AWS IAM: Unlocking the Power of Cloud Security"
-description: "Understanding Cloud computing, AWS CLI and Aws IAM"
+description: "A practical DevOpsWorlwide guide to Demystifying AWS IAM: Unlocking the Power of Cloud Security"
 date: "2023-07-10T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["iam","aws","aws-ccp","devops","understandingcloud"]
@@ -15,7 +15,6 @@ readingTime: 40
 > **Why this matters today:** Cloud services evolve quickly, but durable foundations remain the same: least privilege, resilient architecture, cost visibility, and deliberate operational limits.
 Understanding Cloud computing, AWS CLI and Aws IAM
 
-UpdatedJuly 11, 2023•38 min read•[**View as Markdown](/demystifying-aws-iam-unlocking-the-power-of-cloud-security.md)
 
 
 

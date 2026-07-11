@@ -1,6 +1,6 @@
 ---
 title: "\"Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps Engineers\""
-description: "UpdatedApril 13, 2023•5 min read•[**View as Markdown](/mastering-basic-linux-shell-scripting-a-must-have-skill-for-devops-engineers.md)"
+description: "A practical DevOpsWorlwide guide to \\"Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps Engineers\\""
 date: "2023-04-11T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","linux","shell-scripting","shell-script","trainwithshubham"]
@@ -13,7 +13,6 @@ readingTime: 6
 
 
 > **Why this matters today:** Linux fluency still compounds. Clear command-line habits and safe automation make incident response, troubleshooting, and platform work materially faster.
-UpdatedApril 13, 2023•5 min read•[**View as Markdown](/mastering-basic-linux-shell-scripting-a-must-have-skill-for-devops-engineers.md)
 
 
 

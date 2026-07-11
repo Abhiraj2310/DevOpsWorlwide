@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Service Discovery: The Essential Guide for Cloud-Native DevOps"
-description: "PublishedApril 27, 2023•6 min read•[**View as Markdown](/kubernetes-service-discovery-the-essential-guide-for-cloud-native-devops.md)"
+description: "A practical DevOpsWorlwide guide to Kubernetes Service Discovery: The Essential Guide for Cloud-Native DevOps"
 date: "2023-04-26T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","kubernetes","kubeweekchallenge","kubeweek","trainwithshubham"]

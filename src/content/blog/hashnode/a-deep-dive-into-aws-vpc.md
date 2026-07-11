@@ -1,6 +1,6 @@
 ---
 title: "A Deep Dive into AWS VPC"
-description: "With some Real-Time Industrial Examples"
+description: "A practical DevOpsWorlwide guide to A Deep Dive into AWS VPC"
 date: "2023-05-25T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","aws","vpc","cloud"]

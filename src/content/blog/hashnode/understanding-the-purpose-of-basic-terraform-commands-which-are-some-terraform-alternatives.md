@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Purpose of Basic Terraform Commands.\nWhich are some terraform alternatives?"
-description: "PublishedMay 24, 2023•4 min read•[**View as Markdown](/understanding-the-purpose-of-basic-terraform-commands-which-are-some-terraform-alternatives.md)"
+description: "A practical DevOpsWorlwide guide to Understanding the Purpose of Basic Terraform Commands.\nWhich are some terraform alternatives?"
 date: "2023-05-23T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["terraform","devops","iac","terraformcli","ci-cd"]

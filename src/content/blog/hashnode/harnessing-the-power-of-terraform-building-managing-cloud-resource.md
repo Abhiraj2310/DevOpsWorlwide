@@ -1,6 +1,6 @@
 ---
 title: "Harnessing the Power of Terraform: Building & Managing Cloud Resource"
-description: "Using Resource Configuration & Unleashing the Full Potential of Terraform for Various Cloud Infrastructure"
+description: "A practical DevOpsWorlwide guide to Harnessing the Power of Terraform: Building & Managing Cloud Resource"
 date: "2023-06-06T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","terraform","terraweek","terraweekchallenge","iac"]

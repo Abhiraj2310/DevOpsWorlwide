@@ -1,6 +1,6 @@
 ---
 title: "Maximizing Insights with Cloud Intelligence Dashboards"
-description: "Unveiling the Power of AWS Cloud Intelligence Dashboards"
+description: "A practical DevOpsWorlwide guide to Maximizing Insights with Cloud Intelligence Dashboards"
 date: "2024-02-18T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["cid","devops","aws","cloud-computing","quicksight"]

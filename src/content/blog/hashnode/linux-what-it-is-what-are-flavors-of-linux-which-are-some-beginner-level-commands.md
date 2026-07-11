@@ -1,6 +1,6 @@
 ---
 title: "Linux: What it is? What are flavors of Linux? Which are some beginner level commands?"
-description: "A practical introduction to Linux, its architecture, distributions, and essential commands."
+description: "A practical DevOpsWorlwide guide to Linux: What it is? What are flavors of Linux? Which are some beginner level commands?"
 date: "2023-03-20T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["linux","linux-for-beginners","devops","90daysofdevops","linux-basics"]

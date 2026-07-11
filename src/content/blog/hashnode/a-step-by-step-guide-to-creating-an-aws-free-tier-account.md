@@ -1,6 +1,6 @@
 ---
 title: "A Step-by-Step Guide to Creating an AWS Free Tier Account"
-description: "With AWS Account Activation Troubleshooting"
+description: "A practical DevOpsWorlwide guide to A Step-by-Step Guide to Creating an AWS Free Tier Account"
 date: "2023-07-09T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["aws","aws-free-tier","troubleshooting","devops","freetier"]

@@ -1,6 +1,6 @@
 ---
 title: "Understanding Cloud Series: Amazon S3"
-description: "With key points on AWS S3 for AWS CCP"
+description: "A practical DevOpsWorlwide guide to Understanding Cloud Series: Amazon S3"
 date: "2023-07-14T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["aws","aws-ccp","s3","s3-bucket","devops"]

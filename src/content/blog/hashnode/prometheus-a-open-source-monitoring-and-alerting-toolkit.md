@@ -1,6 +1,6 @@
 ---
 title: "Prometheus: A open-source monitoring and alerting toolkit."
-description: "With Practical steps to monitor a Tomcat server running in a Docker container"
+description: "A practical DevOpsWorlwide guide to Prometheus: A open-source monitoring and alerting toolkit."
 date: "2024-04-10T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["datasourcing","devops","monitoring","alerting","monitoring-tool"]

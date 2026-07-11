@@ -1,6 +1,6 @@
 ---
 title: "A Cheat Sheet of Essential Commands for Managing and Debugging Your Kubernetes Cluster's Networking"
-description: "PublishedApril 29, 2023•5 min read•[**View as Markdown](/a-cheat-sheet-of-essential-commands-for-managing-and-debugging-your-kubernetes-clusters-networking.md)"
+description: "A practical DevOpsWorlwide guide to A Cheat Sheet of Essential Commands for Managing and Debugging Your Kubernetes Cluster's Networking"
 date: "2023-04-28T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["kubernetes","devops","k8s","cheatsheet","cluster"]

@@ -1,6 +1,6 @@
 ---
 title: "\"The Default Ports That Some Popular Devops Tools and \nTechnologies Run On \""
-description: "PublishedApril 23, 2023•3 min read•[**View as Markdown](/the-default-ports-that-some-popular-devops-tools-and-technologies-run-on.md)"
+description: "A practical DevOpsWorlwide guide to \\"The Default Ports That Some Popular Devops Tools and \nTechnologies Run On \\""
 date: "2023-04-22T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: [DevOpsWorlwide]

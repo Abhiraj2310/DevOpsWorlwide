@@ -1,6 +1,6 @@
 ---
 title: "Revolutionizing CI/CD: How ChatGPT Supercharges DevOps Efficiency"
-description: "PublishedOctober 24, 2023•19 min read•[**View as Markdown](/revolutionizing-cicd-how-chatgpt-supercharges-devops-efficiency.md)"
+description: "A practical DevOpsWorlwide guide to Revolutionizing CI/CD: How ChatGPT Supercharges DevOps Efficiency"
 date: "2023-10-23T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","chatgpt","ai","ci-cd"]

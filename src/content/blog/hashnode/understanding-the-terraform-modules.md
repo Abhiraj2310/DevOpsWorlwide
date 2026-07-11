@@ -1,6 +1,6 @@
 ---
 title: "Understanding The Terraform Modules"
-description: "Creation, Composition, Versioning and Locking Terraform Module Versions"
+description: "A practical DevOpsWorlwide guide to Understanding The Terraform Modules"
 date: "2023-06-08T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","terraform","terraweekchallenge","terraweek","iac"]

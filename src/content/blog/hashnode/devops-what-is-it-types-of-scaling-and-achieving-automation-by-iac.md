@@ -1,6 +1,6 @@
 ---
 title: "DevOps: What is it?.. types of scaling and achieving automation by IAC"
-description: "PublishedMarch 20, 2023•3 min read•[**View as Markdown](/devops-what-is-it-types-of-scaling-and-achieving-automation-by-iac.md)"
+description: "A practical DevOpsWorlwide guide to DevOps: What is it?.. types of scaling and achieving automation by IAC"
 date: "2023-03-19T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["devops","devops-journey","devops-articles","trainwithshubham","scalability"]

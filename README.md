@@ -1,4 +1,4 @@
-# DevOpsWorlWide
+# DevOpsWorldWide
 
 A static, dark-first DevOps news and knowledge platform built with Astro, TypeScript, Tailwind CSS, Markdown content collections, RSS, and sitemap support.
 

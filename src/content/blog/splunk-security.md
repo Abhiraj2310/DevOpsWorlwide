@@ -1,5 +1,5 @@
 ---
-title: Splunk for DevSecOps: from log retention to response
+title: "Splunk for DevSecOps: from log retention to response"
 description: Make security telemetry actionable by designing detection and engineering workflows together.
 date: 2026-04-22
 author: Sam Okafor

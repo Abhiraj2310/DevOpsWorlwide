@@ -3,7 +3,6 @@ title: "Step-by-Step Guide to Deploying a Flask and MongoDB Microservices Projec
 description: "A practical DevOpsWorlwide guide to Step-by-Step Guide to Deploying a Flask and MongoDB Microservices Project on Kubernetes with Kubeadm"
 date: "2023-04-29T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["kubeweek","kubernetes","devops","kubeweekchallenge","trainwithshubham"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 13
@@ -357,9 +356,6 @@ Overall, deploying a Flask and MongoDB microservices project on Kubernetes with 
 *~Abhiraj kharbade*
 
 
-#Kubernetes #Devops #Trainwithshubham #Kubeweek #kubeweekchallenge #Day7challenge
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#kubeweek](/tag/kubeweek)[#kubernetes](/tag/kubernetes)[#devops](/tag/devops)[#kubeweekchallenge](/tag/kubeweekchallenge)[#trainwithshubham](/tag/trainwithshubham)

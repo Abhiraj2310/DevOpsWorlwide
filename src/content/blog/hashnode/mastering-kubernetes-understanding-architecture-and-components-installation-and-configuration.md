@@ -3,7 +3,6 @@ title: "\"Mastering Kubernetes: Understanding Architecture and Components, Insta
 description: "A practical DevOpsWorlwide guide to \\"Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration\\""
 date: "2023-04-23T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["kubernetes","kubeweek","kubeweekchallenge","trainwithshubham","devops"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 8
@@ -194,6 +193,4 @@ The above information is up to my understanding. Suggestions are always welcome.
 ~Abhiraj kharbade
 
 
-#Kubernetes #Devops #Trainwithshubham #Kubeweek #kubeweekchallenge [Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#kubernetes](/tag/kubernetes)[#kubeweek](/tag/kubeweek)[#kubeweekchallenge](/tag/kubeweekchallenge)[#trainwithshubham](/tag/trainwithshubham)[#devops](/tag/devops)

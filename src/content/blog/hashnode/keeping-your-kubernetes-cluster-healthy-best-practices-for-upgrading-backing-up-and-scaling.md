@@ -3,7 +3,6 @@ title: "Keeping Your Kubernetes Cluster Healthy: Best Practices for Upgrading, B
 description: "A practical DevOpsWorlwide guide to Keeping Your Kubernetes Cluster Healthy: Best Practices for Upgrading, Backing Up, and Scaling"
 date: "2023-04-28T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["devops","kubernetes","kubeweekchallenge","kubeweek","trainwithshubham"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 5
@@ -207,9 +206,6 @@ The above information is up to my understanding, some of it is procured from Cha
 ~Abhiraj kharbade
 
 
-#Kubernetes #Devops #Trainwithshubham #Kubeweek #kubeweekchallenge #Day6challenge
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#devops](/tag/devops)[#kubernetes](/tag/kubernetes)[#kubeweekchallenge](/tag/kubeweekchallenge)[#kubeweek](/tag/kubeweek)[#trainwithshubham](/tag/trainwithshubham)

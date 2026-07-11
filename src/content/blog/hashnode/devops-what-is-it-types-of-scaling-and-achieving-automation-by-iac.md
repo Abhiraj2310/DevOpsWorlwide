@@ -3,7 +3,6 @@ title: "DevOps: What is it?.. types of scaling and achieving automation by IAC"
 description: "A practical DevOpsWorlwide guide to DevOps: What is it?.. types of scaling and achieving automation by IAC"
 date: "2023-03-19T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["devops","devops-journey","devops-articles","trainwithshubham","scalability"]
 category: Infrastructure as Code
 featured: false
 readingTime: 4
@@ -98,6 +97,4 @@ As I mentioned above DevOps makes it easier to manage the infrastructure but the
 #DevOps, #DevOpsEngineer, #Scaling, #FirstBlog
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#devops](/tag/devops)[#devops-journey](/tag/devops-journey)[#devops-articles](/tag/devops-articles)[#trainwithshubham](/tag/trainwithshubham)[#scalability](/tag/scalability)

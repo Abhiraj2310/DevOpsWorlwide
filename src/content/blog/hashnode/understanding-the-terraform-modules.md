@@ -397,6 +397,5 @@ Remember to regularly update and review module versions to ensure stability and 
 
 
 *This blog post is a part of the #TerraWeek Challenge initiated by
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)*
 
  [#devops](/tag/devops)[#terraform](/tag/terraform)[#terraweekchallenge](/tag/terraweekchallenge)[#terraweek](/tag/terraweek)[#iac](/tag/iac)

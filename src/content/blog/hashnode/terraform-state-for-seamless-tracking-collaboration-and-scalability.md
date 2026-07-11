@@ -369,6 +369,5 @@ In this blog post, we explored the importance of Terraform state, different meth
 
 
 *This blog post is a part of the #TerraWeek Challenge initiated by
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)*
 
  [#devops](/tag/devops)[#terraform](/tag/terraform)[#terraweekchallenge](/tag/terraweekchallenge)[#terraweek](/tag/terraweek)[#iac](/tag/iac)

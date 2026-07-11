@@ -3,7 +3,6 @@ title: "Kubernetes Workloads: A Comprehensive Guide to Deployments, StatefulSets
 description: "A practical DevOpsWorlwide guide to Kubernetes Workloads: A Comprehensive Guide to Deployments, StatefulSets, DaemonSets, Jobs, and CronJobs"
 date: "2023-04-25T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["kubernetes","devops","trainwithshubham","kubeweekchallenge","kubeweek"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 10
@@ -347,9 +346,6 @@ The above information is up to my understanding. Suggestions are always welcome.
 ~Abhiraj kharbade
 
 
-#Kubernetes #Devops #Trainwithshubham #Kubeweek #kubeweekchallenge
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#kubernetes](/tag/kubernetes)[#devops](/tag/devops)[#trainwithshubham](/tag/trainwithshubham)[#kubeweekchallenge](/tag/kubeweekchallenge)[#kubeweek](/tag/kubeweek)

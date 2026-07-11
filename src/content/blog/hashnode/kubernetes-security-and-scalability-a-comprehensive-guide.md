@@ -3,7 +3,6 @@ title: "Kubernetes Security and Scalability: A Comprehensive Guide"
 description: "A practical DevOpsWorlwide guide to Kubernetes Security and Scalability: A Comprehensive Guide"
 date: "2023-04-27T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["devops","kubernetes","kubeweekchallenge","kubeweek","trainwithshubham"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 10
@@ -357,9 +356,6 @@ The above information is up to my understanding. Suggestions are always welcome.
 ~Abhiraj kharbade
 
 
-#Kubernetes #Devops #Trainwithshubham #Kubeweek #kubeweekchallenge #Day5challenge
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#devops](/tag/devops)[#kubernetes](/tag/kubernetes)[#kubeweekchallenge](/tag/kubeweekchallenge)[#kubeweek](/tag/kubeweek)[#trainwithshubham](/tag/trainwithshubham)

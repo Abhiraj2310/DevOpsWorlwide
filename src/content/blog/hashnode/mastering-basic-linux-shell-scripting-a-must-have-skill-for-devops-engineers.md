@@ -3,7 +3,6 @@ title: "\"Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps En
 description: "A practical DevOpsWorlwide guide to \\"Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps Engineers\\""
 date: "2023-04-11T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["devops","linux","shell-scripting","shell-script","trainwithshubham"]
 category: Linux & Automation
 featured: false
 readingTime: 6
@@ -190,6 +189,4 @@ Mastering basic Linux shell scripting is a must-have skill for DevOps engineers.
 #DevOps, #Day4_Blog, #Linux, #shell, #shell script .
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#devops](/tag/devops)[#linux](/tag/linux)[#shell-scripting](/tag/shell-scripting)[#shell-script](/tag/shell-script)[#trainwithshubham](/tag/trainwithshubham)

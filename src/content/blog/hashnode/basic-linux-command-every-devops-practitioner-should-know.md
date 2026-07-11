@@ -3,7 +3,6 @@ title: "Basic linux command every devops practitioner should know."
 description: "A practical DevOpsWorlwide guide to Basic linux command every devops practitioner should know."
 date: "2023-04-04T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["devops","linux","linux-commands","trainwithshubham","devops-trends"]
 category: Linux & Automation
 featured: false
 readingTime: 4
@@ -178,6 +177,4 @@ The 'touch' command creates an empty file with the specified name, and the 'cat'
 #DevOps, #Day3_Blog, #Linux
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#devops](/tag/devops)[#linux](/tag/linux)[#linux-commands](/tag/linux-commands)[#trainwithshubham](/tag/trainwithshubham)[#devops-trends](/tag/devops-trends)

@@ -537,6 +537,5 @@ Remember, this blog post only scratches the surface of Terraform's capabilities,
 
 
 *This blog post is a part of the #TerraWeek Challenge initiated by
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)*
 
  [#terraform](/tag/terraform)[#devops](/tag/devops)[#iac](/tag/iac)[#terraweek-challenge](/tag/terraweek-challenge)

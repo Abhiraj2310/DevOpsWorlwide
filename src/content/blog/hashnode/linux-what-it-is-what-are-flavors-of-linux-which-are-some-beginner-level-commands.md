@@ -86,7 +86,6 @@ The above information is up to my understanding. Suggestions are always welcome.
 
 #DevOps, #Day2_Blog, #Linux
 
-Shubham Londhe
 
 #linux
 #linux-for-beginners

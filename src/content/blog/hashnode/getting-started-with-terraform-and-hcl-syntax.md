@@ -312,6 +312,5 @@ Through practice and testing using the Terraform CLI, you can confidently write 
 
 
 *This blog post is a part of the #TerraWeek Challenge initiated by
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)*
 
  [#devops](/tag/devops)[#terraform](/tag/terraform)[#terraweek](/tag/terraweek)[#terraweekchallenge](/tag/terraweekchallenge)[#iac](/tag/iac)

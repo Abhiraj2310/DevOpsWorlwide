@@ -3,7 +3,6 @@ title: "Kubernetes Service Discovery: The Essential Guide for Cloud-Native DevOp
 description: "A practical DevOpsWorlwide guide to Kubernetes Service Discovery: The Essential Guide for Cloud-Native DevOps"
 date: "2023-04-26T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["devops","kubernetes","kubeweekchallenge","kubeweek","trainwithshubham"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 7
@@ -203,9 +202,6 @@ In summary, Kubernetes Services and Service Discovery are powerful tools that ca
 *~Abhiraj kharbade*
 
 
-#Kubernetes #Devops #Trainwithshubham #Kubeweek #kubeweekchallenge #Day4challenge
 
 
-[Shubham Londhe](https://hashnode.com/@TrainWithShubham)
 
- [#devops](/tag/devops)[#kubernetes](/tag/kubernetes)[#kubeweekchallenge](/tag/kubeweekchallenge)[#kubeweek](/tag/kubeweek)[#trainwithshubham](/tag/trainwithshubham)

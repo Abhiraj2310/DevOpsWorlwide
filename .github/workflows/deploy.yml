@@ -1,4 +1,4 @@
-name: Deploy DevOps Globe
+name: Deploy DevOpsWorlwide
 on:
   push: { branches: [main] }
   workflow_dispatch:

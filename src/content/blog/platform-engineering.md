@@ -2,7 +2,7 @@
 title: Platform engineering is a product discipline
 description: How to turn internal infrastructure into an experience engineers actively choose to use.
 date: 2026-06-09
-author: Maya Chen
+author: DevOpsWorlwide Editorial
 tags: [Platform Engineering, Developer Experience, Kubernetes]
 category: Platform Engineering
 readingTime: 11

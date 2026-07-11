@@ -2,7 +2,7 @@
 title: Observability that helps engineers make decisions
 description: Replace dashboard sprawl with a coherent model of service health and user impact.
 date: 2026-05-16
-author: Elena Ruiz
+author: DevOpsWorlwide Editorial
 tags: [Observability, Grafana, Prometheus]
 category: Observability
 readingTime: 10

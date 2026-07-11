@@ -2,7 +2,7 @@
 title: DevSecOps without the security theatre
 description: Place effective controls in delivery flows without turning developers into compliance clerks.
 date: 2026-04-10
-author: Sam Okafor
+author: DevOpsWorlwide Editorial
 tags: [DevSecOps, Security, CI/CD]
 category: Security
 readingTime: 10

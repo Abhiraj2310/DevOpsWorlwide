@@ -2,7 +2,7 @@
 title: AWS cost optimization without slowing delivery
 description: Build a FinOps loop that gives teams useful cost feedback while preserving engineering momentum.
 date: 2026-06-15
-author: Priya Nair
+author: DevOpsWorlwide Editorial
 tags: [AWS, FinOps, Cloud]
 category: AWS
 readingTime: 9

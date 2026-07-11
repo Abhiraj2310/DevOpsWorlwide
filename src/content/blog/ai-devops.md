@@ -2,7 +2,7 @@
 title: "AI in DevOps: useful copilots, dangerous assumptions"
 description: Where AI can reduce operational toil today—and the controls needed before it touches production.
 date: 2026-03-26
-author: Elena Ruiz
+author: DevOpsWorlwide Editorial
 tags: [AI, DevOps, SRE]
 category: AI for DevOps
 readingTime: 11

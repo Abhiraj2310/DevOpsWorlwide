@@ -25,7 +25,7 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm install
-      - run: npm run build
+      - run: node ./node_modules/astro/astro.js check && node ./node_modules/astro/astro.js build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist

@@ -22,10 +22,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
-      - run: npm install
-      - run: node ./node_modules/astro/astro.js build
+      - run: npm ci
+      - run: npm run build
+        env:
+          HASHNODE_PUBLICATION_HOST: ${{ vars.HASHNODE_PUBLICATION_HOST }}
+          HASHNODE_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist

@@ -2,7 +2,7 @@
 title: GitHub Actions pipelines that are fast, secure, and legible
 description: A practical blueprint for reusable CI workflows with sensible trust boundaries.
 date: 2026-05-28
-author: DevOps Globe Editorial
+author: DevOpsWorlwide Editorial
 tags: [GitHub Actions, CI/CD, Security]
 category: CI/CD
 readingTime: 8

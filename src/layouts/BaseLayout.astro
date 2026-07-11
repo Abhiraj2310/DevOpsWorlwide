@@ -3,7 +3,7 @@ import '../styles/global.css';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 interface Props { title?: string; description?: string; image?: string }
-const { title='DevOps Globe — Engineering intelligence', description='DevOps, SRE and cloud-native engineering intelligence.', image='/og-default.svg' }=Astro.props;
+const { title='DevOpsWorlwide — Engineering intelligence', description='DevOps, SRE and cloud-native engineering intelligence.', image='/og-default.svg' }=Astro.props;
 const canonical=new URL(Astro.url.pathname,Astro.site);
 ---
 <!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width"/><meta name="description" content={description}/><link rel="canonical" href={canonical}/><meta property="og:type" content="website"/><meta property="og:title" content={title}/><meta property="og:description" content={description}/><meta property="og:image" content={new URL(image,Astro.site)}/><meta name="twitter:card" content="summary_large_image"/><title>{title}</title></head><body id="top"><Navbar/><main><slot/></main><Footer/><a href="#top" class="fixed bottom-5 right-5 rounded-full border border-slate-600 bg-slate-900 px-3 py-2 text-sm" aria-label="Back to top">↑</a></body></html>

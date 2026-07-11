@@ -2,7 +2,7 @@
 title: Making Dynatrace useful beyond the incident bridge
 description: An operating model for turning telemetry into durable service intelligence.
 date: 2026-05-05
-author: DevOps Globe Editorial
+author: DevOpsWorlwide Editorial
 tags: [Dynatrace, Observability, SRE]
 category: Observability
 readingTime: 8

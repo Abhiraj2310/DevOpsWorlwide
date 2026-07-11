@@ -2,7 +2,7 @@
 title: Terraform best practices that survive a growing organization
 description: Design Terraform workflows that remain understandable through acquisitions, cloud expansion, and audit pressure.
 date: 2026-06-22
-author: DevOps Globe Editorial
+author: DevOpsWorlwide Editorial
 tags: [Terraform, IaC, Security]
 category: Infrastructure as Code
 readingTime: 10

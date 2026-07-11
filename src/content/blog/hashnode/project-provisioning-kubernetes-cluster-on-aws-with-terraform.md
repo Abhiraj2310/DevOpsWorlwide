@@ -12,7 +12,7 @@ readingTime: 12
 # Project: Provisioning Kubernetes Cluster on AWS with Terraform
 
 
-> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads—not from cluster complexity alone.
+> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloadsï¿½not from cluster complexity alone.
 A project for practicing and learning IAC using Terraform
 
 
@@ -397,9 +397,9 @@ This blog provides step-by-step instructions, starting with the prerequisites of
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/company/devopsworldwide/)
 
 
-[*LinkedIn*](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[*LinkedIn*](https://www.linkedin.com/company/devopsworldwide/)
 
  [#terraform](/tag/terraform)[#devops](/tag/devops)[#aws](/tag/aws)[#kubernetes](/tag/kubernetes)[#iac](/tag/iac)

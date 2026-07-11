@@ -350,6 +350,6 @@ We have successfully set up a CI/CD Pipeline using Java, Maven, JUnit, Jenkins, 
 Connect with me :
 
 
-[LinkedIn](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[LinkedIn](https://www.linkedin.com/company/devopsworldwide/)
 
  [#jenkins](/tag/jenkins)[#devops](/tag/devops)[#maven](/tag/maven)[#java](/tag/java)[#projects](/tag/projects)

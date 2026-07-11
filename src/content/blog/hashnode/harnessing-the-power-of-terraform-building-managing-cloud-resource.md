@@ -477,10 +477,10 @@ In this blog post, we explored how to use Terraform to manage infrastructure res
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/company/devopsworldwide/)
 
 
-[*LinkedIn*](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[*LinkedIn*](https://www.linkedin.com/company/devopsworldwide/)
 
 
 *This blog post is a part of the #TerraWeek Challenge initiated by

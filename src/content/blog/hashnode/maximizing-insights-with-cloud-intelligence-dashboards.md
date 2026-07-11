@@ -352,9 +352,9 @@ Available: [https://www.wellarchitectedlabs.com/cloud-intelligence-dashboards/](
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png?auto=compress,format&format=webp&auto=compress,format&format=webp)](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png?auto=compress,format&format=webp&auto=compress,format&format=webp)](https://www.linkedin.com/company/devopsworldwide/)
 
 
-[***LinkedIn***](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[***LinkedIn***](https://www.linkedin.com/company/devopsworldwide/)
 
  [#cid](/tag/cid)[#devops](/tag/devops)[#aws](/tag/aws)[#cloud-computing](/tag/cloud-computing)[#quicksight](/tag/quicksight)

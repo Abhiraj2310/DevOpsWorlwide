@@ -132,9 +132,9 @@ Ultimately, the choice between Serverless and Jenkins comes down to what works b
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/company/devopsworldwide/)
 
 
-[*LinkedIn*](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[*LinkedIn*](https://www.linkedin.com/company/devopsworldwide/)
 
  [#devops](/tag/devops)[#jenkins](/tag/jenkins)[#serverless](/tag/serverless)[#aws](/tag/aws)[#cicd](/tag/cicd)

@@ -395,9 +395,9 @@ Amazon EC2 is a powerful and versatile service that forms the backbone of many c
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/company/devopsworldwide/)
 
 
-[*LinkedIn*](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[*LinkedIn*](https://www.linkedin.com/company/devopsworldwide/)
 
  [#ec2](/tag/ec2)[#aws](/tag/aws)[#aws-ccp](/tag/aws-ccp)[#ec2-instance](/tag/ec2-instance)[#devops](/tag/devops)

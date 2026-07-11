@@ -193,9 +193,9 @@ Understanding the components and capabilities of AWS VPC empowers businesses to 
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/company/devopsworldwide/)
 
 
-[*LinkedIn*](https://www.linkedin.com/in/abhiraj-k-7b5b56118/)
+[*LinkedIn*](https://www.linkedin.com/company/devopsworldwide/)
 
  [#devops](/tag/devops)[#aws](/tag/aws)[#vpc](/tag/vpc)[#cloud](/tag/cloud)

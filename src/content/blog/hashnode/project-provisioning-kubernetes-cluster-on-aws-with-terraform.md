@@ -397,7 +397,6 @@ This blog provides step-by-step instructions, starting with the prerequisites of
 *Connect with me :*
 
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684148963394/cb184310-d5ce-48d1-bb8a-7081879b7a3d.png)](https://www.linkedin.com/company/devopsworldwide/)
 
 
 [*LinkedIn*](https://www.linkedin.com/company/devopsworldwide/)

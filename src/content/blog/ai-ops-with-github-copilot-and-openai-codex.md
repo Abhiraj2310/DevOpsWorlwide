@@ -37,8 +37,8 @@ The goal is not to let a model make unexplained decisions. The goal is to reduce
 ## Copilot and Codex solve different problems
 
 <div class="article-brand-marks" aria-label="GitHub Copilot and OpenAI Codex">
-  <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub Copilot" /><span>GitHub Copilot</span></a>
-  <a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/openai/ffffff" alt="OpenAI Codex" /><span>OpenAI Codex</span></a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer"><img src="/images/blog/github-copilot-logo.png" alt="GitHub Copilot" /></a>
+  <a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer"><img src="/images/blog/openai-codex-logo.png" alt="OpenAI Codex" /></a>
 </div>
 
 GitHub Copilot is particularly effective in the day-to-day authoring loop: explaining a file, suggesting a function, drafting a workflow step, or helping turn a plain-language requirement into a first version of a Dockerfile or Terraform module.

@@ -13,25 +13,17 @@ readingTime: 4
 
 UpdatedApril 23, 2023•4 min read•[**View as Markdown](/mastering-devops-advanced-linux-shell-scripting-and-user-management-for-efficient-operations.md)[A](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
-I am an electrical engineer with a passion for DevOps and Cloud Engineering, I bring a unique perspective to the world of technology. My expertise includes a wide range of skills including DevOps methodologies, AWS Cloud, Jenkins, CI/CD, MAVEN, Linux, Shell Scripting, Python, YAML scripts, Groovy Scripts, Assembly language, Ansible, Docker, Kubernetes, Grafana, Tomcat, GitHub, Git, Docker Swarm, Terraform IaC, Cloud Engineering, and Networking. With a deep understanding of these technologies, I am able to design and implement complex systems that are both efficient and scalable. Whether working with large-scale enterprise systems or small startups, I am dedicated to delivering innovative solutions that drive success.
 
- 
 
-On this page
-
-[Task 1: Create Directories Using a Bash Script](#heading-task-1-create-directories-using-a-bash-script)[Task 2: Create a Backup Script](#heading-task-2-create-a-backup-script)[Task 3: User Management](#heading-task-3-user-management)
 
 As a DevOps engineer, you need to be proficient in Linux shell scripting to automate tasks and manage systems efficiently. In this article, we will discuss a total of three tasks related to Linux shell scripting and user management.
 
- 
 
 ## Task 1: Create Directories Using a Bash Script
 
- 
 
 In this task, we are required to create a bash script that creates directories with dynamic names based on the input arguments. Here is the script:
 
- 
 
 ```
 #!/bin/bash
@@ -57,29 +49,23 @@ done
 echo "Directories created successfully!"
 ```
 
- 
 
 To use this script, save it in a file named [`createDirectories.sh`](http://createDirectories.sh), and give it execute permissions using the `chmod +x` [`createDirectories.sh`](http://createDirectories.sh) command. Then, run the script with the desired input arguments:
 
- 
 
 ```
 ./createDirectories.sh day 1 90
 ```
 
- 
 
 This will create 90 directories with names day1, day2, day3, and so on.
 
- 
 
 ## Task 2: Create a Backup Script
 
- 
 
 In this task, we are required to create a script to back up all the work done so far. Backups are essential to ensure that your work is safe and can be recovered in case of any failure. Here is a simple backup script:
 
- 
 
 ```
 #!/bin/bash
@@ -99,10 +85,8 @@ tar -czf "${backup_file}" /path/to/source/directory
 echo "Backup created successfully at ${backup_file}"
 ```
 
- 
 
 In this script, we set the backup destination directory and the date format for the backup filename. We then create a backup file with the current date and time in the filename and create a backup archive using the `tar` command.
 
- 
 
 To automate this backup script, we can use the Cron scheduler. Cron is a Linux utility that allows you to schedule tasks to run automatically at specified

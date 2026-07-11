@@ -1,6 +1,6 @@
 ---
 title: "Linux: What it is? What are flavors of Linux? Which are some beginner level commands?"
-description: "Linux: What it is? What are flavors of Linux? Which are some beginner level commands?\nUpdated\nMarch 21, 2023\n•\n4 min read\n•\nView as Markdown\nAbhiraj Kharbade\n\nI am an electrical engineer with a passion for DevOps and Clo"
+description: "A practical introduction to Linux, its architecture, distributions, and essential commands."
 date: "2023-03-20T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
 tags: ["Hashnode","linux","linux-for-beginners","devops","90daysofdevops","linux-basics"]
@@ -10,25 +10,7 @@ readingTime: 4
 ---
 
 # Linux: What it is? What are flavors of Linux? Which are some beginner level commands?
-
-Updated
-March 21, 2023
-•
-4 min read
-•
-View as Markdown
-Abhiraj Kharbade
-
-I am an electrical engineer with a passion for DevOps and Cloud Engineering, I bring a unique perspective to the world of technology. My expertise includes a wide range of skills including DevOps methodologies, AWS Cloud, Jenkins, CI/CD, MAVEN, Linux, Shell Scripting, Python, YAML scripts, Groovy Scripts, Assembly language, Ansible, Docker, Kubernetes, Grafana, Tomcat, GitHub, Git, Docker Swarm, Terraform IaC, Cloud Engineering, and Networking. With a deep understanding of these technologies, I am able to design and implement complex systems that are both efficient and scalable. Whether working with large-scale enterprise systems or small startups, I am dedicated to delivering innovative solutions that drive success.
-
-ON THIS PAGE
-
-What is Linux?
-Architecture of Linux:
-What are the flavors of Linux?
-Which are some beginner-level commands?
-What is Linux?
-
+`n`nWhat is Linux?`n
 Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is a software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function. Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. It is the most secure and reliable operating system as compared to the other operating systems in the market hence in software development Linux is prioritized.
 
 Architecture of Linux:

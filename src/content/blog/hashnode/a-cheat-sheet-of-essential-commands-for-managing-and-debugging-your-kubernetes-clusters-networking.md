@@ -11,31 +11,22 @@ readingTime: 6
 
 # A Cheat Sheet of Essential Commands for Managing and Debugging Your Kubernetes Cluster's Networking
 
-PublishedApril 29, 2023•5 min read•[**View as Markdown](/a-cheat-sheet-of-essential-commands-for-managing-and-debugging-your-kubernetes-clusters-networking.md)
 
-![A Cheat Sheet of Essential Commands for Managing and Debugging Your Kubernetes Cluster's Networking](/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1682598573757%2F3a404e86-1cb3-47ca-a2e8-25810e7bdde7.jpeg&w=3840&q=75)
 
 [![Abhiraj Kharbade](https://cdn.hashnode.com/res/hashnode/image/upload/v1684963336122/aDpQCVjjQ.png?auto=compress,format&format=webp)](https://hashnode.com/@ABHIRAJK)[Abhiraj Kharbade](https://hashnode.com/@ABHIRAJK)[**](https://www.linkedin.com/in/a-k-7b5b56118/)
 
-I am an electrical engineer with a passion for DevOps and Cloud Engineering, I bring a unique perspective to the world of technology. My expertise includes a wide range of skills including DevOps methodologies, AWS Cloud, Jenkins, CI/CD, MAVEN, Linux, Shell Scripting, Python, YAML scripts, Groovy Scripts, Assembly language, Ansible, Docker, Kubernetes, Grafana, Tomcat, GitHub, Git, Docker Swarm, Terraform IaC, Cloud Engineering, and Networking. With a deep understanding of these technologies, I am able to design and implement complex systems that are both efficient and scalable. Whether working with large-scale enterprise systems or small startups, I am dedicated to delivering innovative solutions that drive success.
-
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)
 
-On this page
 
-[**Kubernetes Commands**](#heading-kubernetes-commands)[**Kubernetes Networking Commands**](#heading-kubernetes-networking-commands)[**kubeadm Commands**](#heading-kubeadm-commands)
 
 Kubernetes is a popular container orchestration platform that allows you to manage containerized applications at scale. Kubernetes provides a powerful set of command-line tools that enable you to deploy, manage, and monitor your applications running on a Kubernetes cluster. In this blog post, we'll explore some commonly used Kubernetes and Kubernetes networking commands.
 
- 
 
 ## **Kubernetes Commands**
 
- 
 
 Here are some commonly used Kubernetes commands:
 
- 
  - `kubectl create`: This command is used to create a new Kubernetes resource. You can use this command to create a pod, deployment, service, or any other Kubernetes resource.
  - `kubectl apply`: This command is used to apply changes to an existing Kubernetes resource. You can use this command to update the configuration of a deployment or a service.
  - `kubectl delete`: This command is used to delete a Kubernetes resource. You can use this command to delete a pod, deployment, service, or any other Kubernetes resource.
@@ -46,16 +37,12 @@ Here are some commonly used Kubernetes commands:
  - `kubectl port-forward`: This command is used to forward a local port to a port on a Kubernetes pod. You can use this command to access your application running inside a container.
  - `kubectl scale`: This command is used to scale a Kubernetes deployment up or down. You can use this command to increase or decrease the number of replicas of your application.
  - `kubectl rollout`: This command is used to roll out a new version of a Kubernetes deployment. You can use this command to update your application to a new version.
- 
- 
 
 ## **Kubernetes Networking Commands**
 
- 
 
 Here are some commonly used Kubernetes networking commands:
 
- 
  - `kubectl cluster-info`: This command is used to view information about the Kubernetes cluster. You can use this command to view the IP address of the Kubernetes API server.
  - `kubectl get nodes`: This command is used to list the nodes in the Kubernetes cluster. You can use this command to view the IP addresses of the nodes.
  - `kubectl get pods --all-namespaces`: This command is used to list all the pods in all namespaces. You can use this command to view the IP addresses of the pods.
@@ -70,16 +57,12 @@ Here are some commonly used Kubernetes networking commands:
  - kubectl exec <pod_name> -- curl <service_name>:<port>: This command is used to test connectivity between a pod and a service. You can use this command to verify that the pod can connect to the service.
  - kubectl port-forward <pod_name> <local_port>:<pod_port>: This command is used to forward a local port to a port on a Kubernetes pod. You can use this command to access a pod's web server running on port 80, for example.
  - kubectl run -i --tty busybox --image=busybox --restart=Never -- sh: This command is used to start an interactive shell session inside a Kubernetes pod. You can use this command to debug networking issues by running network diagnostic tools like ping or nslookup.
- 
- 
 
 ## **kubeadm Commands**
 
- 
 
 Here are some commonly used `kubeadm` commands:
 
- 
  - `kubeadm init`: This command is used to initialize a new Kubernetes cluster. You can use this command to create a control plane node and join worker nodes to the cluster.
  - `kubeadm join`: This command is used to join a worker node to an existing Kubernetes cluster. You can use this command to add new nodes to your cluster.
  - `kubeadm config`: This command is used to generate a configuration file for `kubeadm`. You can use this command to customize the configuration of your cluster.
@@ -87,24 +70,18 @@ Here are some commonly used `kubeadm` commands:
  - `kubeadm token`: This command is used to manage tokens used for authenticating nodes joining the cluster.
  - `kubeadm certificate`: This command is used to manage the certificates used by the control plane components.
  - `kubeadm version`: This command is used to view the version of `kubeadm` and the Kubernetes components installed on the control plane node.
- 
- 
 
 With these `kubeadm` commands, you can easily create and manage your Kubernetes cluster.
 
- 
 
 In conclusion, Kubernetes is a powerful container orchestration platform that offers a wide range of commands to help you deploy, manage, and monitor your applications running on a Kubernetes cluster. By mastering these essential Kubernetes, `kubeadm`, and networking commands, you can easily manage and debug your Kubernetes cluster, and ensure your applications are running smoothly.
 
- 
 
 The above information is up to my understanding, it is procured from the Internet. Suggestions are always welcome.
 
- 
 
 ~Abhiraj kharbade
 
- 
 
 #Kubernetes #Devops
 

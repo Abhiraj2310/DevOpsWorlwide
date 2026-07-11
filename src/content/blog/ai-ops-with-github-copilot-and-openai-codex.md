@@ -6,10 +6,13 @@ author: DevOpsWorlwide Editorial
 tags: ["ai-ops", "github-copilot", "openai-codex", "devops", "sre", "platform-engineering"]
 category: DevOps Delivery & Tooling
 featured: true
+heroImage: "/images/blog/ai-ops-copilot-codex-hero.png"
 readingTime: 10
 ---
 
 # AI Ops with GitHub Copilot and OpenAI Codex: Intelligent DevOps, With Engineers in Control
+
+![An engineer reviewing a cloud operations map, deployment pipelines, and telemetry signals](/images/blog/ai-ops-copilot-codex-hero.png)
 
 > **Why this matters today:** the highest-value use of AI in operations is not automatic production change. It is shortening the path from signal to a well-evidenced engineering decision.
 
@@ -60,6 +63,8 @@ AI can make this flow tighter when it is given reliable, scoped inputs:
 6. The tool drafts a timeline and post-incident notes from the verified events.
 
 This is an important distinction: an AI assistant may speed up investigation, but it should not invent root causes or silently take an irreversible action.
+
+![A safe AI Ops loop: telemetry feeds AI analysis, an engineer approves the recommendation, guarded automation executes it, and observability closes the loop](/images/blog/ai-ops-human-in-the-loop.png)
 
 ## High-value use cases for DevOps teams
 

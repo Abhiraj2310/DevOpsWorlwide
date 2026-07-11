@@ -1,6 +1,25 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-const {post,wide=false}:{post:CollectionEntry<'blog'>;wide?:boolean}=Astro.props;
-const f=post.data; const base=import.meta.env.BASE_URL;
+
+const { post, wide = false }: { post: CollectionEntry<'blog'>; wide?: boolean } = Astro.props;
+const f = post.data;
+const base = import.meta.env.BASE_URL;
 ---
-<article class:list={['card overflow-hidden transition duration-200 hover:-translate-y-1 hover:border-indigo-400/50',wide&&'md:grid md:grid-cols-2']}><div class="min-h-40 bg-gradient-to-br from-blue-600/70 via-indigo-700/70 to-purple-800/80 p-5"><span class="tag bg-slate-950/30">{f.category}</span><div class="mt-10 text-3xl opacity-70">Cloud</div></div><div class="p-5"><div class="text-xs text-slate-400">{f.date.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})} · {f.readingTime} min read</div><h2 class="mt-2 text-xl font-bold leading-snug"><a class="hover:text-indigo-300" href={`${base}articles/${post.id}`}>{f.title}</a></h2><p class="mt-2 text-sm text-slate-400">{f.description}</p><div class="mt-4">{f.tags.slice(0,3).map(t=><a href={`${base}tags#${t.toLowerCase()}`} class="tag">{t}</a>)}</div></div></article>
+
+<article class:list={['card overflow-hidden transition duration-200 hover:-translate-y-1 hover:border-indigo-400/50', wide && 'md:grid md:grid-cols-2']}>
+  {f.heroImage ? (
+    <img class="h-52 w-full object-cover md:h-full" src={f.heroImage} alt="" loading="lazy" />
+  ) : (
+    <div class="relative min-h-40 overflow-hidden bg-gradient-to-br from-blue-600/70 via-indigo-700/70 to-purple-800/80 p-5">
+      <span class="tag bg-slate-950/30">{f.category}</span>
+      <div class="absolute -bottom-10 -right-10 h-40 w-40 rounded-full border border-white/10"></div>
+      <div class="absolute bottom-8 right-8 h-12 w-28 rounded-full border border-white/15 bg-white/5"></div>
+    </div>
+  )}
+  <div class="p-5">
+    <div class="text-xs text-slate-400">{f.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} · {f.readingTime} min read</div>
+    <h2 class="mt-2 text-xl font-bold leading-snug"><a class="hover:text-indigo-300" href={`${base}articles/${post.id}`}>{f.title}</a></h2>
+    <p class="mt-2 text-sm text-slate-400">{f.description}</p>
+    <div class="mt-4">{f.tags.slice(0, 3).map((tag) => <a href={`${base}tags#${tag.toLowerCase()}`} class="tag">{tag}</a>)}</div>
+  </div>
+</article>

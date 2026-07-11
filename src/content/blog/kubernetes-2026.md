@@ -1,5 +1,5 @@
 ---
-title: Kubernetes in 2026: the platform has grown up
+title: "Kubernetes in 2026: the platform has grown up"
 description: A pragmatic guide to operating Kubernetes as a dependable product rather than a collection of clusters.
 date: 2026-07-01
 author: Maya Chen

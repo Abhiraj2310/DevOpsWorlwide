@@ -3,14 +3,16 @@ title: "Step-by-Step Guide: Launching Your First Linux VM on Google Cloud Platfo
 description: "With additional step about Deleting a VM on Google Cloud Platform (GCP)."
 date: "2023-05-29T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","devops","gcp","compute-engine","cloud"]
-category: Hashnode Archive
+tags: ["devops","gcp","compute-engine","cloud"]
+category: AWS & Cloud Platforms
 featured: false
 readingTime: 5
 ---
 
 # Step-by-Step Guide: Launching Your First Linux VM on Google Cloud Platform (GCP)
 
+
+> **Why this matters today:** Cloud services evolve quickly, but durable foundations remain the same: least privilege, resilient architecture, cost visibility, and deliberate operational limits.
 With additional step about Deleting a VM on Google Cloud Platform (GCP).
 
 UpdatedMay 30, 2023•4 min read•[**View as Markdown](/step-by-step-guide-launching-your-first-linux-vm-on-google-cloud-platform-gcp.md)

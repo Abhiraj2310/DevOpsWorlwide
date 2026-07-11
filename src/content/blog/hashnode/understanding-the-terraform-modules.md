@@ -3,14 +3,16 @@ title: "Understanding The Terraform Modules"
 description: "Creation, Composition, Versioning and Locking Terraform Module Versions"
 date: "2023-06-08T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","devops","terraform","terraweekchallenge","terraweek","iac"]
-category: Hashnode Archive
+tags: ["devops","terraform","terraweekchallenge","terraweek","iac"]
+category: Infrastructure as Code
 featured: false
 readingTime: 10
 ---
 
 # Understanding The Terraform Modules
 
+
+> **Why this matters today:** Infrastructure changes deserve the same review discipline as application code. Small, versioned modules and auditable plans keep delivery fast without trading away control.
 Creation, Composition, Versioning and Locking Terraform Module Versions
 
 

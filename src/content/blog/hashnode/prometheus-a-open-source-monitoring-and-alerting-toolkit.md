@@ -3,14 +3,16 @@ title: "Prometheus: A open-source monitoring and alerting toolkit."
 description: "With Practical steps to monitor a Tomcat server running in a Docker container"
 date: "2024-04-10T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","datasourcing","devops","monitoring","alerting","monitoring-tool"]
-category: Hashnode Archive
+tags: ["datasourcing","devops","monitoring","alerting","monitoring-tool"]
+category: Observability & Reliability
 featured: false
 readingTime: 6
 ---
 
 # Prometheus: A open-source monitoring and alerting toolkit.
 
+
+> **Why this matters today:** Monitoring only helps when it shortens the path from a user symptom to an informed decision. Focus on service health, actionable alerts, and ownership.
 With Practical steps to monitor a Tomcat server running in a Docker container
 
 

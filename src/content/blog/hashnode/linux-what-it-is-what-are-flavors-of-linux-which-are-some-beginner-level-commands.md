@@ -3,8 +3,8 @@ title: "Linux: What it is? What are flavors of Linux? Which are some beginner le
 description: "A practical introduction to Linux, its architecture, distributions, and essential commands."
 date: "2023-03-20T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","linux","linux-for-beginners","devops","90daysofdevops","linux-basics"]
-category: Hashnode Archive
+tags: ["linux","linux-for-beginners","devops","90daysofdevops","linux-basics"]
+category: Linux & Automation
 featured: false
 readingTime: 4
 ---
@@ -13,6 +13,8 @@ readingTime: 4
 `n`nWhat is Linux?`n
 Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is a software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function. Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. It is the most secure and reliable operating system as compared to the other operating systems in the market hence in software development Linux is prioritized.
 
+
+> **Why this matters today:** Linux fluency still compounds. Clear command-line habits and safe automation make incident response, troubleshooting, and platform work materially faster.
 Architecture of Linux:
 
 The Linux operating system comprises several different pieces between the user and the hardware such as Bootloader, Kernel, Shell and Application.

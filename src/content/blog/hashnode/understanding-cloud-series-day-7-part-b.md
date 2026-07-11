@@ -3,14 +3,16 @@ title: "Understanding Cloud Series: Day 7 Part B"
 description: "AWS ECS, Lambda, Lightsail, batch, Deployment, monitoring, route 53, SQS and notification services"
 date: "2023-07-15T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","aws","devops","aws-ccp"]
-category: Hashnode Archive
+tags: ["aws","devops","aws-ccp"]
+category: Cloud Engineering
 featured: false
 readingTime: 19
 ---
 
 # Understanding Cloud Series: Day 7 Part B
 
+
+> **Why this matters today:** Strong cloud engineering turns individual tools into reliable systems through clear interfaces, documented trade-offs, and continuous operational learning.
 AWS ECS, Lambda, Lightsail, batch, Deployment, monitoring, route 53, SQS and notification services
 
 UpdatedJuly 21, 2023•17 min read•[**View as Markdown](/understanding-cloud-series-day-7-part-b.md)

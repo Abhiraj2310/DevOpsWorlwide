@@ -3,14 +3,16 @@ title: "Understanding Cloud Series: Achieving High Availability and Scalability 
 description: "With Key points on ELB and ASG for AWS CCP"
 date: "2023-07-13T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","elb","asg","aws","aws-ccp","devops"]
-category: Hashnode Archive
+tags: ["elb","asg","aws","aws-ccp","devops"]
+category: AWS & Cloud Platforms
 featured: false
 readingTime: 7
 ---
 
 # Understanding Cloud Series: Achieving High Availability and Scalability with ELB and ASG
 
+
+> **Why this matters today:** Cloud services evolve quickly, but durable foundations remain the same: least privilege, resilient architecture, cost visibility, and deliberate operational limits.
 With Key points on ELB and ASG for AWS CCP
 
 

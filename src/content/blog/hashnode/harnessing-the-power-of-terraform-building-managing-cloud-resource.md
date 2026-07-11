@@ -3,14 +3,16 @@ title: "Harnessing the Power of Terraform: Building & Managing Cloud Resource"
 description: "Using Resource Configuration & Unleashing the Full Potential of Terraform for Various Cloud Infrastructure"
 date: "2023-06-06T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","devops","terraform","terraweek","terraweekchallenge","iac"]
-category: Hashnode Archive
+tags: ["devops","terraform","terraweek","terraweekchallenge","iac"]
+category: Infrastructure as Code
 featured: false
 readingTime: 13
 ---
 
 # Harnessing the Power of Terraform: Building & Managing Cloud Resource
 
+
+> **Why this matters today:** Infrastructure changes deserve the same review discipline as application code. Small, versioned modules and auditable plans keep delivery fast without trading away control.
 Using Resource Configuration & Unleashing the Full Potential of Terraform for Various Cloud Infrastructure
 
 

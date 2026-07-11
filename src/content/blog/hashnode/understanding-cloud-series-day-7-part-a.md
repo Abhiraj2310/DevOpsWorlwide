@@ -3,14 +3,16 @@ title: "Understanding Cloud Series: Day 7 Part A"
 description: "AWS Architechture, VPC, AWS wavelength, Cloudfront, AWS amplify, AWS Backup,AWS DRS, and Databases"
 date: "2023-07-15T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","aws","aws-ccp","devops"]
-category: Hashnode Archive
+tags: ["aws","aws-ccp","devops"]
+category: Cloud Engineering
 featured: false
 readingTime: 25
 ---
 
 # Understanding Cloud Series: Day 7 Part A
 
+
+> **Why this matters today:** Strong cloud engineering turns individual tools into reliable systems through clear interfaces, documented trade-offs, and continuous operational learning.
 AWS Architechture, VPC, AWS wavelength, Cloudfront, AWS amplify, AWS Backup,AWS DRS, and Databases
 
 

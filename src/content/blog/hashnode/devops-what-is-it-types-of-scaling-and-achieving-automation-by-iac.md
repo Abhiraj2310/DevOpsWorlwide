@@ -3,14 +3,16 @@ title: "DevOps: What is it?.. types of scaling and achieving automation by IAC"
 description: "PublishedMarch 20, 2023•3 min read•[**View as Markdown](/devops-what-is-it-types-of-scaling-and-achieving-automation-by-iac.md)"
 date: "2023-03-19T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","devops","devops-journey","devops-articles","trainwithshubham","scalability"]
-category: Hashnode Archive
+tags: ["devops","devops-journey","devops-articles","trainwithshubham","scalability"]
+category: Infrastructure as Code
 featured: false
 readingTime: 4
 ---
 
 # DevOps: What is it?.. types of scaling and achieving automation by IAC
 
+
+> **Why this matters today:** Infrastructure changes deserve the same review discipline as application code. Small, versioned modules and auditable plans keep delivery fast without trading away control.
 
 ![DevOps: What is it?.. types of scaling and achieving automation by IAC](/images/blog/hashnode/devops-what-is-it-types-of-scaling-and-achieving-automation-by-iac-cover.svg)
 

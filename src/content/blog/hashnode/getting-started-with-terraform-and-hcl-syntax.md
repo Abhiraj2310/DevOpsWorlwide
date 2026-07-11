@@ -3,14 +3,16 @@ title: "Getting Started with Terraform and HCL Syntax"
 description: "Writing Your First Terraform configuration using HCL syntax"
 date: "2023-06-04T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","devops","terraform","terraweek","terraweekchallenge","iac"]
-category: Hashnode Archive
+tags: ["devops","terraform","terraweek","terraweekchallenge","iac"]
+category: Infrastructure as Code
 featured: false
 readingTime: 10
 ---
 
 # Getting Started with Terraform and HCL Syntax
 
+
+> **Why this matters today:** Infrastructure changes deserve the same review discipline as application code. Small, versioned modules and auditable plans keep delivery fast without trading away control.
 Writing Your First Terraform configuration using HCL syntax
 
 UpdatedJune 6, 2023•9 min read•[**View as Markdown](/getting-started-with-terraform-and-hcl-syntax.md)

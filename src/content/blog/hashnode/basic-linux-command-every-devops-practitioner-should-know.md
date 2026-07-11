@@ -3,14 +3,16 @@ title: "Basic linux command every devops practitioner should know."
 description: "PublishedApril 5, 2023•3 min read•[**View as Markdown](/basic-linux-command-every-devops-practitioner-should-know.md)"
 date: "2023-04-04T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","devops","linux","linux-commands","trainwithshubham","devops-trends"]
-category: Hashnode Archive
+tags: ["devops","linux","linux-commands","trainwithshubham","devops-trends"]
+category: Linux & Automation
 featured: false
 readingTime: 4
 ---
 
 # Basic linux command every devops practitioner should know.
 
+
+> **Why this matters today:** Linux fluency still compounds. Clear command-line habits and safe automation make incident response, troubleshooting, and platform work materially faster.
 
 
 

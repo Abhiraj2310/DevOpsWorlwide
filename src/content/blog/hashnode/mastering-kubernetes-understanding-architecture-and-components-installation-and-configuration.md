@@ -3,14 +3,16 @@ title: "\"Mastering Kubernetes: Understanding Architecture and Components, Insta
 description: "UpdatedApril 27, 2023•7 min read•[**View as Markdown](/mastering-kubernetes-understanding-architecture-and-components-installation-and-configuration.md)"
 date: "2023-04-23T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: ["Hashnode","kubernetes","kubeweek","kubeweekchallenge","trainwithshubham","devops"]
-category: Hashnode Archive
+tags: ["kubernetes","kubeweek","kubeweekchallenge","trainwithshubham","devops"]
+category: Kubernetes & Cloud Native
 featured: false
 readingTime: 8
 ---
 
 # "Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration"
 
+
+> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads�not from cluster complexity alone.
 UpdatedApril 27, 2023•7 min read•[**View as Markdown](/mastering-kubernetes-understanding-architecture-and-components-installation-and-configuration.md)
 
 

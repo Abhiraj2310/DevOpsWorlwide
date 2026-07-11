@@ -1,8 +1,9 @@
 ---
-title: "\"Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps Engineers\""
-description: "A practical DevOpsWorlwide guide to \\"Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps Engineers\\""
+title: "Mastering Basic Linux Shell Scripting: A Must-Have Skill for DevOps Engineers"
+description: "A practical DevOpsWorlwide guide to mastering Linux shell scripting."
 date: "2023-04-11T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
+tags: ["linux", "shell-scripting", "devops"]
 category: Linux & Automation
 featured: false
 readingTime: 6

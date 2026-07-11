@@ -3,6 +3,7 @@ title: "Kubernetes Workloads: A Comprehensive Guide to Deployments, StatefulSets
 description: "A practical DevOpsWorlwide guide to Kubernetes Workloads: A Comprehensive Guide to Deployments, StatefulSets, DaemonSets, Jobs, and CronJobs"
 date: "2023-04-25T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
+tags: ["kubernetes", "workloads", "containers"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 10
@@ -11,7 +12,7 @@ readingTime: 10
 # Kubernetes Workloads: A Comprehensive Guide to Deployments, StatefulSets, DaemonSets, Jobs, and CronJobs
 
 
-> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads—not from cluster complexity alone.
+> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloadsï¿½not from cluster complexity alone.
 
 
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)

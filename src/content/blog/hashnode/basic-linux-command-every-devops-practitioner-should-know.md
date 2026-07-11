@@ -3,6 +3,7 @@ title: "Basic linux command every devops practitioner should know."
 description: "A practical DevOpsWorlwide guide to Basic linux command every devops practitioner should know."
 date: "2023-04-04T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
+tags: ["linux", "command-line", "devops"]
 category: Linux & Automation
 featured: false
 readingTime: 4

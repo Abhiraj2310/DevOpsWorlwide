@@ -1,9 +1,9 @@
 ---
-title: "\"The Default Ports That Some Popular Devops Tools and \nTechnologies Run On \""
-description: "A practical DevOpsWorlwide guide to \\"The Default Ports That Some Popular Devops Tools and \nTechnologies Run On \\""
+title: "Default Ports for Popular DevOps Tools and Technologies"
+description: "A practical DevOpsWorlwide reference for commonly used DevOps service ports."
 date: "2023-04-22T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
-tags: [DevOpsWorlwide]
+tags: ["devops", "networking", "ports"]
 category: DevOps Delivery & Tooling
 featured: false
 readingTime: 4

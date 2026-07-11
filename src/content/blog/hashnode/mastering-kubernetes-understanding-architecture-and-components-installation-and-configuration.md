@@ -1,8 +1,9 @@
 ---
-title: "\"Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration\""
-description: "A practical DevOpsWorlwide guide to \\"Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration\\""
+title: "Mastering Kubernetes: Architecture, Installation, and Configuration"
+description: "A practical DevOpsWorlwide guide to Kubernetes architecture, installation, and configuration."
 date: "2023-04-23T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
+tags: ["kubernetes", "architecture", "cloud-native"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 8
@@ -11,7 +12,7 @@ readingTime: 8
 # "Mastering Kubernetes: Understanding Architecture and Components, Installation, and Configuration"
 
 
-> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads—not from cluster complexity alone.
+> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloadsï¿½not from cluster complexity alone.
 
 
  [**Part of seriesUnderstanding Kubernetes](/series/kubernetes-masterclass)

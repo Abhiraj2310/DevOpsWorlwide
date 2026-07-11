@@ -3,6 +3,7 @@ title: "Step-by-Step Guide to Deploying a Flask and MongoDB Microservices Projec
 description: "A practical DevOpsWorlwide guide to Step-by-Step Guide to Deploying a Flask and MongoDB Microservices Project on Kubernetes with Kubeadm"
 date: "2023-04-29T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
+tags: ["kubernetes", "flask", "mongodb", "microservices"]
 category: Kubernetes & Cloud Native
 featured: false
 readingTime: 13
@@ -11,7 +12,7 @@ readingTime: 13
 # Step-by-Step Guide to Deploying a Flask and MongoDB Microservices Project on Kubernetes with Kubeadm
 
 
-> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloads—not from cluster complexity alone.
+> **Why this matters today:** Kubernetes is now operational infrastructure. The practical advantage comes from repeatable platform defaults, clear ownership, and observable workloadsï¿½not from cluster complexity alone.
 With troubleshooting.
 
 

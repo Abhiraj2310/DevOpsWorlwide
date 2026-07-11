@@ -3,6 +3,7 @@ title: "DevOps: What is it?.. types of scaling and achieving automation by IAC"
 description: "A practical DevOpsWorlwide guide to DevOps: What is it?.. types of scaling and achieving automation by IAC"
 date: "2023-03-19T18:30:00.000Z"
 author: DevOpsWorlwide Editorial
+tags: ["devops", "automation", "infrastructure-as-code"]
 category: Infrastructure as Code
 featured: false
 readingTime: 4

@@ -10,9 +10,9 @@ const categoryCount = new Set(posts.map((post) => post.data.category)).size;
 
 <BaseLayout>
   <section class="shell py-12 md:py-20">
-    <div class="relative isolate overflow-hidden rounded-[2rem] border border-indigo-300/20 bg-slate-950 shadow-2xl shadow-indigo-950/50">
-      <img class="absolute inset-0 -z-20 h-full w-full object-cover opacity-80" src="/images/site/devopsworldwide-home-hero.png" alt="DevOpsWorlwide cloud, AI, and platform engineering illustration" />
-      <div class="absolute inset-0 -z-10 bg-gradient-to-r from-slate-950 via-slate-950/90 to-slate-950/15"></div>
+    <div class="homepage-hero relative isolate overflow-hidden rounded-[2rem] border border-indigo-300/20 bg-slate-950 shadow-2xl shadow-indigo-950/50">
+      <img class="homepage-hero-art absolute -z-20 h-full object-cover" src="/images/site/devopsworldwide-home-hero.png" alt="DevOpsWorlwide cloud, AI, and platform engineering illustration" />
+      <div class="homepage-hero-shade absolute inset-0 -z-10"></div>
       <div class="max-w-3xl px-7 py-16 md:px-14 md:py-24">
         <p class="eyebrow">Global engineering intelligence</p>
         <h1 class="mt-4 text-5xl font-black tracking-tight md:text-7xl">The operating system for <span class="gradient">modern engineering.</span></h1>

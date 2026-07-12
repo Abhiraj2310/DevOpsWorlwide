@@ -13,14 +13,10 @@ const categoryCount = new Set(posts.map((post) => post.data.category)).size;
     <div class="homepage-hero relative isolate overflow-hidden rounded-[2rem] border border-indigo-300/20 bg-slate-950 shadow-2xl shadow-indigo-950/50">
       <img class="homepage-hero-art absolute -z-20 h-full object-cover" src="/images/site/devopsworldwide-home-hero.png" alt="DevOpsWorlwide cloud, AI, and platform engineering illustration" />
       <div class="homepage-hero-shade absolute inset-0 -z-10"></div>
-      <div class="max-w-3xl px-7 py-16 md:px-14 md:py-24">
-        <p class="eyebrow">Global engineering intelligence</p>
-        <h1 class="mt-4 text-5xl font-black tracking-tight md:text-7xl">The operating system for <span class="gradient">modern engineering.</span></h1>
-        <p class="prose-lead mt-6 max-w-2xl">Useful signal for builders navigating cloud-native systems, reliability, security, AI, and the changing craft of delivery.</p>
-        <div class="mt-8 flex flex-wrap gap-3">
-          <a class="btn" href={`${import.meta.env.BASE_URL}articles`}>Read the latest →</a>
-          <a class="btn ghost" href={`${import.meta.env.BASE_URL}about`}>Our mission</a>
-        </div>
+      <h1 class="sr-only">DevOpsWorlwide: engineering intelligence for modern operators</h1>
+      <div class="homepage-hero-content absolute bottom-6 right-6 flex flex-wrap justify-end gap-3 md:bottom-10 md:right-10">
+        <a class="btn" href={`${import.meta.env.BASE_URL}articles`}>Explore articles →</a>
+        <a class="btn ghost" href={`${import.meta.env.BASE_URL}about`}>Our mission</a>
       </div>
     </div>
 

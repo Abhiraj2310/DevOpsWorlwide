@@ -23,5 +23,5 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="twitter:card" content="summary_large_image" />
     <title>{title}</title>
   </head>
-  <body id="top"><Navbar /><main><slot /></main><Footer /><a href="#top" class="fixed bottom-5 right-5 rounded-full border border-slate-600 bg-slate-900 px-3 py-2 text-sm" aria-label="Back to top">↑</a></body>
+  <body id="top"><Navbar /><main><slot /></main><Footer /><a href="#top" class="fixed bottom-5 right-5 rounded-full border border-slate-600 bg-slate-900 px-3 py-2 text-sm" aria-label="Back to top">↑</a><script is:inline>document.addEventListener('error', event => { const image = event.target; if (!(image instanceof HTMLImageElement) || !image.src.includes('cdn.hashnode.com') || image.dataset.fallbackApplied) return; image.dataset.fallbackApplied = 'true'; image.src = '/images/blog/external-image-fallback.svg'; image.alt = 'DevOpsWorlwide article visual'; }, true);</script></body>
 </html>

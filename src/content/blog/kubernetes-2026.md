@@ -4,7 +4,7 @@ description: A pragmatic guide to operating Kubernetes as a dependable product r
 date: 2026-07-01
 author: DevOpsWorlwide Editorial
 tags: [Kubernetes, Platform Engineering, CNCF]
-category: Kubernetes
+category: Kubernetes & Cloud Native
 featured: true
 readingTime: 12
 ---

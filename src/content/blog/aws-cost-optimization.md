@@ -4,7 +4,7 @@ description: Build a FinOps loop that gives teams useful cost feedback while pre
 date: 2026-06-15
 author: DevOpsWorlwide Editorial
 tags: [AWS, FinOps, Cloud]
-category: AWS
+category: AWS & Cloud Platforms
 readingTime: 9
 ---
 

@@ -4,7 +4,7 @@ description: An operating model for turning telemetry into durable service intel
 date: 2026-05-05
 author: DevOpsWorlwide Editorial
 tags: [Dynatrace, Observability, SRE]
-category: Observability
+category: Observability & Reliability
 readingTime: 8
 ---
 

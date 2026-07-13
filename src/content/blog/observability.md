@@ -4,7 +4,7 @@ description: Replace dashboard sprawl with a coherent model of service health an
 date: 2026-05-16
 author: DevOpsWorlwide Editorial
 tags: [Observability, Grafana, Prometheus]
-category: Observability
+category: Observability & Reliability
 readingTime: 10
 ---
 

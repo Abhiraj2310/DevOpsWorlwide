@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">DevOpsWorlwide — Engineering intelligence</title>
+  <desc id="description">Global DevOps, cloud, AI, SRE, and platform engineering intelligence.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#102b68"/>
+      <stop offset="1" stop-color="#32145c"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <circle cx="960" cy="160" r="240" fill="#2563eb" opacity=".18"/>
+  <circle cx="1070" cy="480" r="280" fill="#9333ea" opacity=".16"/>
+  <g fill="none" stroke="#7dd3fc" stroke-width="2" opacity=".48">
+    <path d="M710 180h130l60 70h135"/>
+    <path d="M665 330h135l70-75h200"/>
+    <path d="M760 460h125l70-75h150"/>
+  </g>
+  <g fill="#bfdbfe" filter="url(#glow)">
+    <circle cx="710" cy="180" r="7"/><circle cx="840" cy="180" r="7"/><circle cx="900" cy="250" r="7"/><circle cx="1035" cy="250" r="7"/>
+    <circle cx="665" cy="330" r="7"/><circle cx="800" cy="330" r="7"/><circle cx="870" cy="255" r="7"/><circle cx="1070" cy="255" r="7"/>
+    <circle cx="760" cy="460" r="7"/><circle cx="885" cy="460" r="7"/><circle cx="955" cy="385" r="7"/><circle cx="1105" cy="385" r="7"/>
+  </g>
+  <text x="85" y="190" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">ENGINEERING INTELLIGENCE</text>
+  <text x="85" y="290" fill="url(#brand)" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800">DevOpsWorlwide</text>
+  <text x="85" y="360" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600">Cloud · AI · SRE · Platform Engineering</text>
+  <text x="85" y="465" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="27">Practical signals for people who build and run production.</text>
+  <text x="85" y="550" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="23">devopsworldwide.com</text>
+</svg>

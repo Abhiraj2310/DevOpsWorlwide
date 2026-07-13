@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "sync:hashnode": "node scripts/sync-hashnode.mjs",
-    "build": "npm run sync:hashnode && astro build",
+    "build": "astro build",
     "preview": "astro preview"
   },
   "dependencies": {

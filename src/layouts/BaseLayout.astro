@@ -4,7 +4,9 @@ import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 
 interface Props { title?: string; description?: string; image?: string }
-const { title = 'DevOpsWorlwide — Engineering intelligence', description = 'DevOps, SRE and cloud-native engineering intelligence.', image = '/og-default.svg' } = Astro.props;
+const { title = 'DevOpsWorldwide — Engineering intelligence', description = 'DevOps, SRE and cloud-native engineering intelligence.', image = '/og-default.svg' } = Astro.props;
+const displayTitle = title.replaceAll('DevOpsWorlwide', 'DevOpsWorldwide');
+const displayDescription = description.replaceAll('DevOpsWorlwide', 'DevOpsWorldwide');
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -14,14 +16,14 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <script is:inline>try { if (localStorage.getItem('devopsworldwide-theme') === 'light') document.documentElement.classList.add('light'); } catch {}</script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="description" content={description} />
+    <meta name="description" content={displayDescription} />
     <link rel="canonical" href={canonical} />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <meta property="og:title" content={displayTitle} />
+    <meta property="og:description" content={displayDescription} />
     <meta property="og:image" content={new URL(image, Astro.site)} />
     <meta name="twitter:card" content="summary_large_image" />
-    <title>{title}</title>
+    <title>{displayTitle}</title>
   </head>
-  <body id="top"><Navbar /><main><slot /></main><Footer /><a href="#top" class="fixed bottom-5 right-5 rounded-full border border-slate-600 bg-slate-900 px-3 py-2 text-sm" aria-label="Back to top">↑</a><script is:inline>document.addEventListener('error', event => { const image = event.target; if (!(image instanceof HTMLImageElement) || !image.src.includes('cdn.hashnode.com') || image.dataset.fallbackApplied) return; image.dataset.fallbackApplied = 'true'; image.src = '/images/blog/external-image-fallback.svg'; image.alt = 'DevOpsWorlwide article visual'; }, true);</script></body>
+  <body id="top"><Navbar /><main><slot /></main><Footer /><a href="#top" class="fixed bottom-5 right-5 rounded-full border border-slate-600 bg-slate-900 px-3 py-2 text-sm" aria-label="Back to top">↑</a><script is:inline>document.addEventListener('error', event => { const image = event.target; if (!(image instanceof HTMLImageElement) || !image.src.includes('cdn.hashnode.com') || image.dataset.fallbackApplied) return; image.dataset.fallbackApplied = 'true'; image.src = '/images/blog/external-image-fallback.svg'; image.alt = 'DevOpsWorldwide article visual'; }, true);</script></body>
 </html>

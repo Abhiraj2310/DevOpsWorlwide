@@ -19,7 +19,7 @@ const markdownTitle = markdown => markdown.match(/^#\s+(.+)$/m)?.[1]?.trim();
 const markdownDescription = markdown => markdown.split('\n').map(line => line.trim()).find(line => line && !line.startsWith('#') && !line.startsWith('!') && !line.startsWith('```'))?.slice(0, 220);
 
 async function fetchText(url, accept = 'text/plain, text/markdown, text/html;q=0.9, */*;q=0.8') {
-  const response = await fetch(url, { headers: { Accept: accept, 'User-Agent': 'DevOpsWorlwide one-time content migration' } });
+  const response = await fetch(url, { headers: { Accept: accept, 'User-Agent': 'DevOpsWorldwide one-time content migration' } });
   if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
   return await response.text();
 }
@@ -53,7 +53,7 @@ try {
       if (!markdown || markdown.startsWith('<!DOCTYPE')) throw new Error('The public Markdown source was unavailable.');
       const metadata = await getArticleMetadata(articleUrl, slug, markdown);
       const readingTime = Math.max(4, Math.ceil(markdown.split(/\s+/).length / 220));
-      const content = ['---', `title: ${JSON.stringify(metadata.title)}`, `description: ${JSON.stringify(metadata.description)}`, `date: ${JSON.stringify(metadata.date)}`, 'author: DevOpsWorlwide Editorial', 'tags: [Hashnode]', 'category: Hashnode Archive', 'featured: false', `readingTime: ${readingTime}`, '---', '', markdown, ''].join('\n');
+      const content = ['---', `title: ${JSON.stringify(metadata.title)}`, `description: ${JSON.stringify(metadata.description)}`, `date: ${JSON.stringify(metadata.date)}`, 'author: DevOpsWorldwide Editorial', 'tags: [Hashnode]', 'category: Hashnode Archive', 'featured: false', `readingTime: ${readingTime}`, '---', '', markdown, ''].join('\n');
       await writeFile(path.join(outputDir, `${slug}.md`), content, 'utf8');
       imported += 1;
     } catch (error) {

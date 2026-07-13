@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
-  <title id="title">DevOpsWorlwide — Engineering intelligence</title>
+  <title id="title">DevOpsWorldwide — Engineering intelligence</title>
   <desc id="description">Global DevOps, cloud, AI, SRE, and platform engineering intelligence.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -30,7 +30,7 @@
     <circle cx="760" cy="460" r="7"/><circle cx="885" cy="460" r="7"/><circle cx="955" cy="385" r="7"/><circle cx="1105" cy="385" r="7"/>
   </g>
   <text x="85" y="190" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">ENGINEERING INTELLIGENCE</text>
-  <text x="85" y="290" fill="url(#brand)" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800">DevOpsWorlwide</text>
+  <text x="85" y="290" fill="url(#brand)" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="800">DevOpsWorldwide</text>
   <text x="85" y="360" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600">Cloud · AI · SRE · Platform Engineering</text>
   <text x="85" y="465" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="27">Practical signals for people who build and run production.</text>
   <text x="85" y="550" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="23">devopsworldwide.com</text>

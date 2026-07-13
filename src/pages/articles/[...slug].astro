@@ -19,11 +19,11 @@ const jsonLd = {
   description: d.description,
   datePublished: d.date.toISOString(),
   author: { '@type': 'Person', name: d.author },
-  publisher: { '@type': 'Organization', name: 'DevOpsWorlwide' },
+  publisher: { '@type': 'Organization', name: 'DevOpsWorldwide' },
 };
 ---
 
-<BaseLayout title={`${d.title} | DevOpsWorlwide`} description={d.description}>
+<BaseLayout title={`${d.title} | DevOpsWorldwide`} description={d.description}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <div class="fixed left-0 top-16 z-40 h-1 bg-gradient-to-r from-blue-400 to-purple-400" id="progress"></div>
   <section class="shell py-12">

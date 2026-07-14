@@ -14,6 +14,13 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 <html lang="en">
   <head>
     <script is:inline>try { if (localStorage.getItem('devopsworldwide-theme') === 'light') document.documentElement.classList.add('light'); } catch {}</script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0DZ5BE3FDW"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-0DZ5BE3FDW');
+    </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content={displayDescription} />

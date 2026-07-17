@@ -4,8 +4,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import BlogCard from '../components/BlogCard.astro';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const featured = posts.find((post) => post.data.featured) ?? posts[0];
-const latestPosts = posts.filter((post) => post.id !== featured?.id).slice(0, 6);
+const attentionPosts = posts.slice(0, 3);
+const latestPosts = posts.slice(3, 9);
 const categoryCount = new Set(posts.map((post) => post.data.category)).size;
 ---
 
@@ -33,12 +33,12 @@ const categoryCount = new Set(posts.map((post) => post.data.category)).size;
       <div><p class="eyebrow">Featured signal</p><h2 class="text-3xl font-bold">Worth your full attention</h2></div>
       <a class="text-sm text-indigo-300" href={`${import.meta.env.BASE_URL}articles`}>View all →</a>
     </div>
-    <div class="mt-6">{featured && <BlogCard post={featured} wide />}</div>
+    <div class="mt-6 grid gap-5 md:grid-cols-2 xl:grid-cols-3">{attentionPosts.map((post) => <BlogCard post={post} />)}</div>
   </section>
 
   <section class="shell mt-20">
     <p class="eyebrow">Latest articles</p><h2 class="text-3xl font-bold">What operators are reading</h2>
-    <div class="mt-6 grid gap-5 md:grid-cols-3">{latestPosts.map((post) => <BlogCard post={post} />)}</div>
+    <div class="mt-6 grid gap-5 md:grid-cols-2">{latestPosts.map((post) => <BlogCard post={post} />)}</div>
   </section>
 
   <section class="shell mt-20 grid gap-6 md:grid-cols-2">

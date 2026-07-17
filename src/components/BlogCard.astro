@@ -8,7 +8,7 @@ const base = import.meta.env.BASE_URL;
 
 <article class:list={['card overflow-hidden transition duration-200 hover:-translate-y-1 hover:border-indigo-400/50', wide && 'md:grid md:grid-cols-2']}>
   {f.heroImage ? (
-    <img class="h-52 w-full object-cover md:h-full" src={f.heroImage} alt="" loading="lazy" />
+    <img class:list={["w-full object-cover", wide ? "aspect-video md:aspect-auto md:h-full" : "aspect-video"]} src={f.heroImage} alt="" loading="lazy" />
   ) : (
     <div class="relative min-h-40 overflow-hidden bg-gradient-to-br from-blue-600/70 via-indigo-700/70 to-purple-800/80 p-5">
       <span class="tag bg-slate-950/30">{f.category}</span>

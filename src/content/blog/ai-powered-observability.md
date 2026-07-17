@@ -115,6 +115,11 @@ AI is most valuable after a page, when an engineer needs to establish scope and 
 
 ## Dynatrace: Davis AI and topology-aware causal analysis
 
+<div class="article-tool-logo" aria-label="Dynatrace">
+  <img src="/images/blog/brands/dynatrace-logo.svg" alt="Dynatrace logo" />
+  <span>Dynatrace</span>
+</div>
+
 Many engineers know the Dynatrace capability as **Davis AI**. In current Dynatrace terminology, **Dynatrace Intelligence** is the umbrella for its causal, predictive, generative, and agentic capabilities; it expands on and replaces the older Davis AI/Davis CoPilot naming. The underlying operational idea remains highly relevant: use a live dependency model and event context to identify the primary cause rather than merely list correlated symptoms.
 
 Dynatrace describes its causal root-cause analysis as evaluating captured and ingested information against the causal topology, then highlighting entities identified as the root cause. Related anomalies can be combined into one trackable problem, helping reduce alert floods. [Dynatrace root-cause analysis documentation](https://docs.dynatrace.com/docs/dynatrace-intelligence/root-cause-analysis) explains the model and its problem correlation approach.
@@ -148,6 +153,11 @@ Threshold-only monitoring may produce five alerts. A topology-aware causal workf
 Treat causal analysis as a navigable evidence graph—not a replacement for verifying timestamps, deployments, and traces.
 
 ## Splunk: make operational data and SPL easier to interrogate
+
+<div class="article-tool-logo" aria-label="Splunk">
+  <img src="/images/blog/brands/splunk-logo.svg" alt="Splunk logo" />
+  <span>Splunk</span>
+</div>
 
 Splunk’s AI Assistant is particularly useful for the interaction layer: translating between natural language and Search Processing Language (SPL), explaining what a search does, optimising a search, and helping users learn platform concepts. Its current documentation describes bi-directional translation between natural language and SPL, with generated searches opened and reviewed in the normal Search app. [Splunk’s AI Assistant documentation](https://help.splunk.com/en/splunk-cloud-platform/search/splunk-ai-assistant/2.1.1/use-splunk-ai-assistant/use-splunk-ai-assistant) is clear that the assistant assists the investigation; the resulting search should still be inspected.
 
@@ -183,6 +193,11 @@ The AI did not discover a root cause by itself. It reduced the syntax and search
 Query assistance needs the same controls as any other operational tool. Avoid placing secrets, customer data, or unrestricted event samples in prompts. Use role-based access, maintain a documented data-retention policy, and review the service’s data-sharing settings. Splunk documents configuration options for data sharing and personalisation, as well as the operational limitations of its AI Assistant. [Review those controls before enablement.](https://help.splunk.com/en/splunk-cloud-platform/search/splunk-ai-assistant-for-spl/install-and-configure-splunk-ai-assistant-for-spl/configure-splunk-ai-assistant-for-spl)
 
 ## Grafana: natural-language exploration across metrics, logs, traces, and profiles
+
+<div class="article-tool-logo" aria-label="Grafana">
+  <img src="/images/blog/brands/grafana-logo.svg" alt="Grafana logo" />
+  <span>Grafana</span>
+</div>
 
 Grafana’s AI capabilities combine familiar observability workflows with assistance for querying, dashboard creation, and investigation. Grafana Assistant can help generate editable PromQL, LogQL, TraceQL, and SQL queries from natural-language requests, while Grafana Cloud’s AI features include anomaly detection, forecasting, and outlier detection. [Grafana’s AI overview](https://grafana.com/docs/grafana-cloud/machine-learning/intro/) describes the distinction between these features.
 

@@ -23,7 +23,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={`${d.title} | DevOpsWorldwide`} description={d.description}>
+<BaseLayout title={`${d.title} | DevOpsWorldwide`} description={d.description} image={d.heroImage ?? '/images/site/devopsworldwide-home-hero.png'}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <div class="fixed left-0 top-16 z-40 h-1 bg-gradient-to-r from-blue-400 to-purple-400" id="progress"></div>
   <section class="shell py-12">
